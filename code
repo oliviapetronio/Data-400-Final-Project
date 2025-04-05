@@ -1,0 +1,197 @@
+# --- Scraper + Analysis Script ---
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import time
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import statsmodels.api as sm
+from sklearn.cluster import KMeans
+from sklearn.preprocessing import StandardScaler
+
+# --- Product Data ---
+products = [
+    ("Bananas", "https://www.target.com/p/organic-bananas-2lb-good-38-gather-8482/-/A-85759852#lnk=sametab"),
+    ("Vegetable Oil", "https://www.target.com/p/vegetable-oil-good-gather/-/A-89467834?preselect=78376315#lnk=sametab"),
+    ("Gum", "https://www.target.com/p/extra-spearmint-sugarfree-gum-15ct/-/A-13307857#lnk=sametab"),
+    ("Toilet Paper", "https://www.target.com/p/cottonelle-ultra-comfort-toilet-paper/-/A-54605704?preselect=75665830#lnk=sametab"),
+    ("AirPods", "https://www.target.com/p/apple-airpods-4/-/A-93606140?preselect=85978618#lnk=sametab"),
+    ("Cotton Swabs", "https://www.target.com/p/q-tips-cotton-swabs-375ct/-/A-11223546#lnk=sametab"),
+    ("Diapers", "https://www.target.com/p/pampers-swaddlers-active-baby-diapers-select-size-and-count/-/A-14783999?preselect=53461432#lnk=sametab"),
+    ("T-Shirt", "https://www.target.com/p/women-s-linen-short-sleeve-t-shirt-universal-thread/-/A-93711326?preselect=92878440#lnk=sametab"),
+    ("Eggs", "https://www.target.com/p/grade-a-large-eggs-12ct-good-38-gather-8482-packaging-may-vary/-/A-14713534#lnk=sametab"),
+    ("Shampoo", "https://www.target.com/p/native-coconut-vanilla-moisturizing-shampoo/-/A-94666723?preselect=80120273#lnk=sametab"),
+    ("Milk", "https://www.target.com/p/milk-good-gather/-/A-94602358?preselect=13276134#lnk=sametab")
+]
+
+zips = ['17013', '22209', '19103', '07036', '16509', '21224', '12205', '10025']
+location = ['Carlisle, PA', 'Rosslyn, VA', 'Philly, PA', 'Linden, NJ', 'Erie, PA', 'Baltimore, MD', 'Albany, NY', 'Manhattan, NY']
+city_town = ['Suburban', 'Urban', 'Urban', 'City', 'City', 'City', 'City', 'City']
+
+combined_data = []
+
+# --- Setup Driver ---
+def setup_driver():
+    options = Options()
+    options.add_argument("--disable-blink-features=AutomationControlled")
+    options.add_argument("--window-size=1920x1080")
+    driver = webdriver.Chrome(options=options)
+    driver.set_page_load_timeout(30)
+    return driver
+
+def close_modal(driver):
+    try:
+        WebDriverWait(driver, 5).until(
+            EC.element_to_be_clickable((By.CLASS_NAME, "styles_overlay__3ZDC1"))
+        )
+        close_btn = driver.find_element(By.CLASS_NAME, "styles_overlay__3ZDC1")
+        driver.execute_script("arguments[0].click();", close_btn)
+        time.sleep(2)
+    except:
+        pass
+
+# --- Scraping Loop ---
+for product_name, url in products:
+    print(f"📦 Scraping {product_name}...")
+    driver = setup_driver()
+    try:
+        driver.get(url)
+        time.sleep(5)
+        close_modal(driver)
+
+        price_element = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.XPATH, "//span[contains(@data-test, 'product-price')]"))
+        )
+        price = price_element.text
+        combined_data.append({"Product": product_name, "Zip Code": '17013', "Price": price})
+        print(f"✅ Zip Code: 17013, Price: {price}")
+        time.sleep(2)
+
+        try:
+            add_btn = driver.find_element(By.XPATH, "//button[contains(text(), 'Add to cart')]")
+            driver.execute_script("arguments[0].scrollIntoView();", add_btn)
+            add_btn.click()
+            time.sleep(5)
+            view_cart = driver.find_element(By.XPATH, "//a[contains(text(), 'View cart & check out')]")
+            view_cart.click()
+            time.sleep(6)
+            change_store = WebDriverWait(driver, 10).until(
+                EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'Change store')]"))
+            )
+            change_store.click()
+        except:
+            print(f"⚠️ Skipping cart for {product_name} - cart interaction failed.")
+
+        for zip_code in zips[1:]:
+            try:
+                edit_buttons = driver.find_elements(By.XPATH, "//button[contains(text(), 'Edit your location')]")
+                if not edit_buttons:
+                    print(f"❌ Could not find 'Edit your location' for zip {zip_code}")
+                    continue
+
+                edit_buttons[0].click()
+                time.sleep(1)
+                zip_input = driver.find_element(By.XPATH, '//*[@id="zip-or-city-state"]')
+                zip_input.send_keys(Keys.COMMAND + "a")
+                zip_input.send_keys(Keys.BACKSPACE)
+                zip_input.send_keys(zip_code)
+                time.sleep(1)
+                lookup = driver.find_element(By.XPATH, "//button[contains(text(), 'Look up')]")
+                lookup.click()
+                time.sleep(5)
+                pickup = WebDriverWait(driver, 10).until(
+                    EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'Pick up here')]"))
+                )
+                pickup.click()
+                time.sleep(5)
+                price = driver.find_element(
+                    By.XPATH,
+                    '//*[@id="cart-container"]/div/div[1]/div[1]/div[3]/div/div/div[3]/div[2]/div/div[2]/div/div/div/p'
+                ).text
+                combined_data.append({"Product": product_name, "Zip Code": zip_code, "Price": price})
+                print(f"✅ Zip Code: {zip_code}, Price: {price}")
+                time.sleep(2)
+                change_store = driver.find_element(By.XPATH, "//button[contains(text(), 'Change store')]")
+                change_store.click()
+            except Exception as e:
+                print(f"❌ Error processing zip {zip_code}: {e}")
+    except Exception as e:
+        print(f"❌ Error on main product for {product_name}: {e}")
+    finally:
+        driver.quit()
+
+# --- Data Cleanup ---
+df = pd.DataFrame(combined_data)
+zip_map = dict(zip(zips, zip(location, city_town)))
+df['Location'] = df['Zip Code'].map(lambda z: zip_map.get(z, ["", ""])[0])
+df['Area Type'] = df['Zip Code'].map(lambda z: zip_map.get(z, ["", ""])[1])
+df['Price'] = df['Price'].replace('[\$,]', '', regex=True).astype(float)
+
+# --- Category Mapping ---
+category_map = {
+    "Bananas": "Food", "Vegetable Oil": "Food", "Gum": "Snack", "Toilet Paper": "Toiletries",
+    "AirPods": "Electronics", "Cotton Swabs": "Toiletries", "Diapers": "Baby Care",
+    "T-Shirt": "Clothing", "Eggs": "Food", "Shampoo": "Toiletries", "Milk": "Food"
+}
+df["Category"] = df["Product"].map(category_map)
+
+df.to_csv("target_prices_combined.csv", index=False)
+print("✅ All product data saved to target_prices_combined.csv")
+
+# --- EDA + Visualization ---
+plt.figure(figsize=(14, 6))
+sns.boxplot(data=df, x="Category", y="Price")
+plt.title("Price Distribution by Product Category")
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.show()
+
+pivot = df.pivot_table(index="Product", columns="Zip Code", values="Price", aggfunc='mean')
+print("\n📊 Average Price by Product and ZIP Code:\n")
+print(pivot)
+
+print("\n📉 Product Price Variability (Standard Deviation):\n")
+print(df.groupby("Product")["Price"].std())
+
+# Linear Regression: Area Type → Price
+df_reg = df.copy()
+df_reg['Area Code'] = df_reg['Area Type'].map({'Suburban': 0, 'City': 1, 'Urban': 2})
+df_reg = df_reg.dropna(subset=['Area Code'])
+
+X = sm.add_constant(df_reg['Area Code'])
+y = df_reg['Price']
+model = sm.OLS(y, X).fit()
+print("\n📈 Linear Regression Summary (Area Code → Price):\n")
+print(model.summary())
+
+# K-Means Clustering
+pivot_df = df.pivot_table(index="Zip Code", columns="Product", values="Price")
+pivot_df = pivot_df.dropna()
+if pivot_df.shape[0] >= 2:
+    scaler = StandardScaler()
+    scaled = scaler.fit_transform(pivot_df)
+    kmeans = KMeans(n_clusters=2, random_state=42)
+    pivot_df['Cluster'] = kmeans.fit_predict(scaled)
+    print("\n ZIP Code Clusters:\n")
+    print(pivot_df['Cluster'])
+else:
+    print("\n Not enough ZIP Codes with full product prices to perform clustering.")
+
+# Group Means
+print("\n🏙️ Average Price by Area Type:\n")
+print(df.groupby(['Area Type'])['Price'].mean())
+
+print("\n📊 Average Price by Category and Area Type:\n")
+print(df.groupby(['Category', 'Area Type'])['Price'].mean().unstack())
+
+# Heatmap
+plt.figure(figsize=(12, 6))
+sns.heatmap(pivot, annot=True, cmap="coolwarm", fmt=".2f")
+plt.title("Price Variation of Products by ZIP Code")
+plt.tight_layout()
+plt.show()
