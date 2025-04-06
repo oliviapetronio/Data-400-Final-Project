@@ -1,0 +1,144 @@
+Product,Zip Code,Price,Location,Area Type,Category
+Bananas,72903,1.99,"Fort Smith, AR",Rural,Food
+Bananas,72903,1.99,"Fort Smith, AR",Rural,Food
+Bananas,72032,1.99,"Conway, AR",Suburban,Food
+Bananas,72703,1.99,"Fayetteville, AR",Urban,Food
+Bananas,71301,1.99,"Alexandria, LA",Rural,Food
+Bananas,71111,1.99,"Bossier City, LA",Suburban,Food
+Bananas,70816,1.99,"Baton Rouge, LA",Urban,Food
+Bananas,74055,1.99,"Owasso, OK",Rural,Food
+Bananas,73034,1.99,"Edmond, OK",Suburban,Food
+Bananas,74133,1.99,"Tulsa, OK",Urban,Food
+Bananas,77840,1.99,"College Station, TX",Rural,Food
+Bananas,79707,1.99,"Midland, TX",Suburban,Food
+Bananas,78717,1.99,"Austin, TX",Urban,Food
+Vegetable Oil,72903,9.39,"Fort Smith, AR",Rural,Food
+Vegetable Oil,72903,9.39,"Fort Smith, AR",Rural,Food
+Vegetable Oil,72032,9.39,"Conway, AR",Suburban,Food
+Vegetable Oil,72703,9.39,"Fayetteville, AR",Urban,Food
+Vegetable Oil,71301,9.39,"Alexandria, LA",Rural,Food
+Vegetable Oil,71111,9.39,"Bossier City, LA",Suburban,Food
+Vegetable Oil,70816,9.39,"Baton Rouge, LA",Urban,Food
+Vegetable Oil,74055,9.39,"Owasso, OK",Rural,Food
+Vegetable Oil,73034,9.39,"Edmond, OK",Suburban,Food
+Vegetable Oil,74133,9.39,"Tulsa, OK",Urban,Food
+Vegetable Oil,77840,9.39,"College Station, TX",Rural,Food
+Vegetable Oil,79707,9.39,"Midland, TX",Suburban,Food
+Vegetable Oil,78717,9.39,"Austin, TX",Urban,Food
+Gum,72903,1.69,"Fort Smith, AR",Rural,Snack
+Gum,72903,1.79,"Fort Smith, AR",Rural,Snack
+Gum,72032,1.79,"Conway, AR",Suburban,Snack
+Gum,72703,1.79,"Fayetteville, AR",Urban,Snack
+Gum,71301,1.79,"Alexandria, LA",Rural,Snack
+Gum,71111,1.79,"Bossier City, LA",Suburban,Snack
+Gum,70816,1.79,"Baton Rouge, LA",Urban,Snack
+Gum,74055,1.79,"Owasso, OK",Rural,Snack
+Gum,73034,1.79,"Edmond, OK",Suburban,Snack
+Gum,74133,1.79,"Tulsa, OK",Urban,Snack
+Gum,77840,1.79,"College Station, TX",Rural,Snack
+Gum,79707,1.79,"Midland, TX",Suburban,Snack
+Gum,78717,1.79,"Austin, TX",Urban,Snack
+Toilet Paper,72903,12.99,"Fort Smith, AR",Rural,Toiletries
+Toilet Paper,72903,12.99,"Fort Smith, AR",Rural,Toiletries
+Toilet Paper,72032,12.99,"Conway, AR",Suburban,Toiletries
+Toilet Paper,72703,12.99,"Fayetteville, AR",Urban,Toiletries
+Toilet Paper,71301,12.99,"Alexandria, LA",Rural,Toiletries
+Toilet Paper,71111,12.99,"Bossier City, LA",Suburban,Toiletries
+Toilet Paper,70816,12.99,"Baton Rouge, LA",Urban,Toiletries
+Toilet Paper,74055,12.99,"Owasso, OK",Rural,Toiletries
+Toilet Paper,73034,12.99,"Edmond, OK",Suburban,Toiletries
+Toilet Paper,74133,12.99,"Tulsa, OK",Urban,Toiletries
+Toilet Paper,77840,12.99,"College Station, TX",Rural,Toiletries
+Toilet Paper,79707,12.99,"Midland, TX",Suburban,Toiletries
+Toilet Paper,78717,12.99,"Austin, TX",Urban,Toiletries
+AirPods,72903,179.99,"Fort Smith, AR",Rural,Electronics
+AirPods,72903,179.99,"Fort Smith, AR",Rural,Electronics
+AirPods,72032,179.99,"Conway, AR",Suburban,Electronics
+AirPods,72703,179.99,"Fayetteville, AR",Urban,Electronics
+AirPods,71301,179.99,"Alexandria, LA",Rural,Electronics
+AirPods,71111,179.99,"Bossier City, LA",Suburban,Electronics
+AirPods,70816,179.99,"Baton Rouge, LA",Urban,Electronics
+AirPods,74055,179.99,"Owasso, OK",Rural,Electronics
+AirPods,73034,179.99,"Edmond, OK",Suburban,Electronics
+AirPods,74133,179.99,"Tulsa, OK",Urban,Electronics
+AirPods,77840,179.99,"College Station, TX",Rural,Electronics
+AirPods,79707,179.99,"Midland, TX",Suburban,Electronics
+AirPods,78717,179.99,"Austin, TX",Urban,Electronics
+Cotton Swabs,72903,3.39,"Fort Smith, AR",Rural,Toiletries
+Cotton Swabs,72903,3.39,"Fort Smith, AR",Rural,Toiletries
+Cotton Swabs,72032,3.39,"Conway, AR",Suburban,Toiletries
+Cotton Swabs,72703,3.39,"Fayetteville, AR",Urban,Toiletries
+Cotton Swabs,71301,3.39,"Alexandria, LA",Rural,Toiletries
+Cotton Swabs,71111,3.39,"Bossier City, LA",Suburban,Toiletries
+Cotton Swabs,70816,3.39,"Baton Rouge, LA",Urban,Toiletries
+Cotton Swabs,74055,3.39,"Owasso, OK",Rural,Toiletries
+Cotton Swabs,73034,3.39,"Edmond, OK",Suburban,Toiletries
+Cotton Swabs,74133,3.39,"Tulsa, OK",Urban,Toiletries
+Cotton Swabs,77840,3.39,"College Station, TX",Rural,Toiletries
+Cotton Swabs,79707,3.39,"Midland, TX",Suburban,Toiletries
+Cotton Swabs,78717,3.39,"Austin, TX",Urban,Toiletries
+Diapers,72903,44.99,"Fort Smith, AR",Rural,Baby Care
+Diapers,72903,44.99,"Fort Smith, AR",Rural,Baby Care
+Diapers,72032,44.99,"Conway, AR",Suburban,Baby Care
+Diapers,72703,44.99,"Fayetteville, AR",Urban,Baby Care
+Diapers,71301,44.99,"Alexandria, LA",Rural,Baby Care
+Diapers,71111,44.99,"Bossier City, LA",Suburban,Baby Care
+Diapers,70816,44.99,"Baton Rouge, LA",Urban,Baby Care
+Diapers,74055,44.99,"Owasso, OK",Rural,Baby Care
+Diapers,73034,44.99,"Edmond, OK",Suburban,Baby Care
+Diapers,74133,44.99,"Tulsa, OK",Urban,Baby Care
+Diapers,77840,44.99,"College Station, TX",Rural,Baby Care
+Diapers,79707,44.99,"Midland, TX",Suburban,Baby Care
+Diapers,78717,44.99,"Austin, TX",Urban,Baby Care
+T-Shirt,72903,9.6,"Fort Smith, AR",Rural,Clothing
+T-Shirt,72903,9.6,"Fort Smith, AR",Rural,Clothing
+T-Shirt,72032,9.6,"Conway, AR",Suburban,Clothing
+T-Shirt,72703,9.6,"Fayetteville, AR",Urban,Clothing
+T-Shirt,71301,9.6,"Alexandria, LA",Rural,Clothing
+T-Shirt,71111,9.6,"Bossier City, LA",Suburban,Clothing
+T-Shirt,70816,9.6,"Baton Rouge, LA",Urban,Clothing
+T-Shirt,74055,9.6,"Owasso, OK",Rural,Clothing
+T-Shirt,73034,9.6,"Edmond, OK",Suburban,Clothing
+T-Shirt,74133,9.6,"Tulsa, OK",Urban,Clothing
+T-Shirt,77840,9.6,"College Station, TX",Rural,Clothing
+T-Shirt,79707,9.6,"Midland, TX",Suburban,Clothing
+T-Shirt,78717,9.6,"Austin, TX",Urban,Clothing
+Eggs,72903,4.99,"Fort Smith, AR",Rural,Food
+Eggs,72903,4.99,"Fort Smith, AR",Rural,Food
+Eggs,72032,4.99,"Conway, AR",Suburban,Food
+Eggs,72703,4.99,"Fayetteville, AR",Urban,Food
+Eggs,71301,4.99,"Alexandria, LA",Rural,Food
+Eggs,71111,4.99,"Bossier City, LA",Suburban,Food
+Eggs,70816,4.99,"Baton Rouge, LA",Urban,Food
+Eggs,74055,4.99,"Owasso, OK",Rural,Food
+Eggs,73034,4.99,"Edmond, OK",Suburban,Food
+Eggs,74133,4.99,"Tulsa, OK",Urban,Food
+Eggs,77840,3.99,"College Station, TX",Rural,Food
+Eggs,79707,3.99,"Midland, TX",Suburban,Food
+Eggs,78717,3.99,"Austin, TX",Urban,Food
+Shampoo,72903,9.99,"Fort Smith, AR",Rural,Toiletries
+Shampoo,72903,9.99,"Fort Smith, AR",Rural,Toiletries
+Shampoo,72032,9.99,"Conway, AR",Suburban,Toiletries
+Shampoo,72703,9.99,"Fayetteville, AR",Urban,Toiletries
+Shampoo,71301,9.99,"Alexandria, LA",Rural,Toiletries
+Shampoo,71111,9.99,"Bossier City, LA",Suburban,Toiletries
+Shampoo,70816,9.99,"Baton Rouge, LA",Urban,Toiletries
+Shampoo,74055,9.99,"Owasso, OK",Rural,Toiletries
+Shampoo,73034,9.99,"Edmond, OK",Suburban,Toiletries
+Shampoo,74133,9.99,"Tulsa, OK",Urban,Toiletries
+Shampoo,77840,9.99,"College Station, TX",Rural,Toiletries
+Shampoo,79707,9.99,"Midland, TX",Suburban,Toiletries
+Shampoo,78717,9.99,"Austin, TX",Urban,Toiletries
+Milk,72903,4.69,"Fort Smith, AR",Rural,Food
+Milk,72903,3.49,"Fort Smith, AR",Rural,Food
+Milk,72032,4.19,"Conway, AR",Suburban,Food
+Milk,72703,3.49,"Fayetteville, AR",Urban,Food
+Milk,71301,4.49,"Alexandria, LA",Rural,Food
+Milk,71111,4.49,"Bossier City, LA",Suburban,Food
+Milk,70816,4.59,"Baton Rouge, LA",Urban,Food
+Milk,74055,3.39,"Owasso, OK",Rural,Food
+Milk,73034,3.39,"Edmond, OK",Suburban,Food
+Milk,74133,3.39,"Tulsa, OK",Urban,Food
+Milk,77840,2.59,"College Station, TX",Rural,Food
+Milk,79707,3.39,"Midland, TX",Suburban,Food
+Milk,78717,2.69,"Austin, TX",Urban,Food

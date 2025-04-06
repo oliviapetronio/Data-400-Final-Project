@@ -1,0 +1,133 @@
+Product,Zip Code,Price,Location,Area Type,Category
+Bananas,36526,1.99,"Daphne, AL",Rural,Food
+Bananas,35601,1.99,"Decatur, AL",Suburban,Food
+Bananas,35226,1.99,"Birmingham, AL",Urban,Food
+Bananas,42104,1.99,"Bowling Green, KY",Rural,Food
+Bananas,42301,1.99,"Owensboro, KY",Suburban,Food
+Bananas,40241,1.99,"Louisville, KY",Urban,Food
+Bananas,39159,1.99,"Rolling Fork, MS",Rural,Food
+Bananas,39402,1.99,"Hattiesburg, MS",Suburban,Food
+Bananas,39213,1.99,"Jackson, MS",Urban,Food
+Bananas,37801,1.99,"Maryville, TN",Rural,Food
+Bananas,38017,1.99,"Collierville, TN",Suburban,Food
+Bananas,38133,1.99,"Memphis, TN",Urban,Food
+Vegetable Oil,36526,9.39,"Daphne, AL",Rural,Food
+Vegetable Oil,35601,9.39,"Decatur, AL",Suburban,Food
+Vegetable Oil,35226,9.39,"Birmingham, AL",Urban,Food
+Vegetable Oil,42104,9.39,"Bowling Green, KY",Rural,Food
+Vegetable Oil,42301,9.39,"Owensboro, KY",Suburban,Food
+Vegetable Oil,40241,9.39,"Louisville, KY",Urban,Food
+Vegetable Oil,39159,9.39,"Rolling Fork, MS",Rural,Food
+Vegetable Oil,39402,9.39,"Hattiesburg, MS",Suburban,Food
+Vegetable Oil,39213,9.39,"Jackson, MS",Urban,Food
+Vegetable Oil,37801,9.39,"Maryville, TN",Rural,Food
+Vegetable Oil,38017,9.39,"Collierville, TN",Suburban,Food
+Vegetable Oil,38133,9.39,"Memphis, TN",Urban,Food
+Gum,36526,1.79,"Daphne, AL",Rural,Snack
+Gum,35601,1.79,"Decatur, AL",Suburban,Snack
+Gum,35226,1.79,"Birmingham, AL",Urban,Snack
+Gum,42104,1.79,"Bowling Green, KY",Rural,Snack
+Gum,42301,1.79,"Owensboro, KY",Suburban,Snack
+Gum,40241,1.79,"Louisville, KY",Urban,Snack
+Gum,39159,1.79,"Rolling Fork, MS",Rural,Snack
+Gum,39402,1.79,"Hattiesburg, MS",Suburban,Snack
+Gum,39213,1.79,"Jackson, MS",Urban,Snack
+Gum,37801,1.79,"Maryville, TN",Rural,Snack
+Gum,38017,1.79,"Collierville, TN",Suburban,Snack
+Gum,38133,1.79,"Memphis, TN",Urban,Snack
+Toilet Paper,36526,12.99,"Daphne, AL",Rural,Toiletries
+Toilet Paper,35601,12.99,"Decatur, AL",Suburban,Toiletries
+Toilet Paper,35226,12.99,"Birmingham, AL",Urban,Toiletries
+Toilet Paper,42104,12.99,"Bowling Green, KY",Rural,Toiletries
+Toilet Paper,42301,12.99,"Owensboro, KY",Suburban,Toiletries
+Toilet Paper,40241,12.99,"Louisville, KY",Urban,Toiletries
+Toilet Paper,39159,12.99,"Rolling Fork, MS",Rural,Toiletries
+Toilet Paper,39402,12.99,"Hattiesburg, MS",Suburban,Toiletries
+Toilet Paper,39213,12.99,"Jackson, MS",Urban,Toiletries
+Toilet Paper,37801,12.99,"Maryville, TN",Rural,Toiletries
+Toilet Paper,38017,12.99,"Collierville, TN",Suburban,Toiletries
+Toilet Paper,38133,12.99,"Memphis, TN",Urban,Toiletries
+AirPods,36526,179.99,"Daphne, AL",Rural,Electronics
+AirPods,35601,179.99,"Decatur, AL",Suburban,Electronics
+AirPods,35226,179.99,"Birmingham, AL",Urban,Electronics
+AirPods,42104,179.99,"Bowling Green, KY",Rural,Electronics
+AirPods,42301,179.99,"Owensboro, KY",Suburban,Electronics
+AirPods,40241,179.99,"Louisville, KY",Urban,Electronics
+AirPods,39159,179.99,"Rolling Fork, MS",Rural,Electronics
+AirPods,39402,179.99,"Hattiesburg, MS",Suburban,Electronics
+AirPods,39213,179.99,"Jackson, MS",Urban,Electronics
+AirPods,37801,179.99,"Maryville, TN",Rural,Electronics
+AirPods,38017,179.99,"Collierville, TN",Suburban,Electronics
+AirPods,38133,179.99,"Memphis, TN",Urban,Electronics
+Cotton Swabs,36526,3.39,"Daphne, AL",Rural,Toiletries
+Cotton Swabs,35601,3.39,"Decatur, AL",Suburban,Toiletries
+Cotton Swabs,35226,3.39,"Birmingham, AL",Urban,Toiletries
+Cotton Swabs,42104,3.39,"Bowling Green, KY",Rural,Toiletries
+Cotton Swabs,42301,3.39,"Owensboro, KY",Suburban,Toiletries
+Cotton Swabs,40241,3.39,"Louisville, KY",Urban,Toiletries
+Cotton Swabs,39159,3.39,"Rolling Fork, MS",Rural,Toiletries
+Cotton Swabs,39402,3.39,"Hattiesburg, MS",Suburban,Toiletries
+Cotton Swabs,39213,3.39,"Jackson, MS",Urban,Toiletries
+Cotton Swabs,37801,3.39,"Maryville, TN",Rural,Toiletries
+Cotton Swabs,38017,3.29,"Collierville, TN",Suburban,Toiletries
+Cotton Swabs,38133,3.29,"Memphis, TN",Urban,Toiletries
+Diapers,36526,44.99,"Daphne, AL",Rural,Baby Care
+Diapers,35601,44.99,"Decatur, AL",Suburban,Baby Care
+Diapers,35226,44.99,"Birmingham, AL",Urban,Baby Care
+Diapers,42104,44.99,"Bowling Green, KY",Rural,Baby Care
+Diapers,42301,44.99,"Owensboro, KY",Suburban,Baby Care
+Diapers,40241,44.99,"Louisville, KY",Urban,Baby Care
+Diapers,39159,44.99,"Rolling Fork, MS",Rural,Baby Care
+Diapers,39402,44.99,"Hattiesburg, MS",Suburban,Baby Care
+Diapers,39213,44.99,"Jackson, MS",Urban,Baby Care
+Diapers,37801,44.99,"Maryville, TN",Rural,Baby Care
+Diapers,38017,44.99,"Collierville, TN",Suburban,Baby Care
+Diapers,38133,44.99,"Memphis, TN",Urban,Baby Care
+T-Shirt,36526,9.6,"Daphne, AL",Rural,Clothing
+T-Shirt,35601,9.6,"Decatur, AL",Suburban,Clothing
+T-Shirt,35226,9.6,"Birmingham, AL",Urban,Clothing
+T-Shirt,42104,9.6,"Bowling Green, KY",Rural,Clothing
+T-Shirt,42301,9.6,"Owensboro, KY",Suburban,Clothing
+T-Shirt,40241,9.6,"Louisville, KY",Urban,Clothing
+T-Shirt,39159,9.6,"Rolling Fork, MS",Rural,Clothing
+T-Shirt,39402,9.6,"Hattiesburg, MS",Suburban,Clothing
+T-Shirt,39213,9.6,"Jackson, MS",Urban,Clothing
+T-Shirt,37801,9.6,"Maryville, TN",Rural,Clothing
+T-Shirt,38017,9.6,"Collierville, TN",Suburban,Clothing
+T-Shirt,38133,9.6,"Memphis, TN",Urban,Clothing
+Eggs,36526,4.99,"Daphne, AL",Rural,Food
+Eggs,35601,4.99,"Decatur, AL",Suburban,Food
+Eggs,35226,4.99,"Birmingham, AL",Urban,Food
+Eggs,42104,4.99,"Bowling Green, KY",Rural,Food
+Eggs,42301,4.99,"Owensboro, KY",Suburban,Food
+Eggs,40241,4.99,"Louisville, KY",Urban,Food
+Eggs,39159,4.99,"Rolling Fork, MS",Rural,Food
+Eggs,39402,4.99,"Hattiesburg, MS",Suburban,Food
+Eggs,39213,4.99,"Jackson, MS",Urban,Food
+Eggs,37801,4.99,"Maryville, TN",Rural,Food
+Eggs,38017,4.99,"Collierville, TN",Suburban,Food
+Eggs,38133,4.99,"Memphis, TN",Urban,Food
+Shampoo,36526,9.99,"Daphne, AL",Rural,Toiletries
+Shampoo,35601,9.99,"Decatur, AL",Suburban,Toiletries
+Shampoo,35226,9.99,"Birmingham, AL",Urban,Toiletries
+Shampoo,42104,9.99,"Bowling Green, KY",Rural,Toiletries
+Shampoo,42301,9.99,"Owensboro, KY",Suburban,Toiletries
+Shampoo,40241,9.99,"Louisville, KY",Urban,Toiletries
+Shampoo,39159,9.99,"Rolling Fork, MS",Rural,Toiletries
+Shampoo,39402,9.99,"Hattiesburg, MS",Suburban,Toiletries
+Shampoo,39213,9.99,"Jackson, MS",Urban,Toiletries
+Shampoo,37801,9.99,"Maryville, TN",Rural,Toiletries
+Shampoo,38017,9.99,"Collierville, TN",Suburban,Toiletries
+Shampoo,38133,9.99,"Memphis, TN",Urban,Toiletries
+Milk,36526,3.59,"Daphne, AL",Rural,Food
+Milk,35601,2.99,"Decatur, AL",Suburban,Food
+Milk,35226,2.99,"Birmingham, AL",Urban,Food
+Milk,42104,2.59,"Bowling Green, KY",Rural,Food
+Milk,42301,2.59,"Owensboro, KY",Suburban,Food
+Milk,40241,2.99,"Louisville, KY",Urban,Food
+Milk,39159,4.19,"Rolling Fork, MS",Rural,Food
+Milk,39402,4.19,"Hattiesburg, MS",Suburban,Food
+Milk,39213,4.19,"Jackson, MS",Urban,Food
+Milk,37801,4.69,"Maryville, TN",Rural,Food
+Milk,38017,4.69,"Collierville, TN",Suburban,Food
+Milk,38133,4.69,"Memphis, TN",Urban,Food

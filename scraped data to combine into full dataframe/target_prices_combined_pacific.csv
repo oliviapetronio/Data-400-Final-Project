@@ -1,0 +1,166 @@
+Product,Zip Code,Price,Location,Area Type,Category
+Bananas,99654,1.99,"Wasilla, AK",Suburban,Food
+Bananas,99654,2.69,"Wasilla, AK",Suburban,Food
+Bananas,99515,2.69,"Anchorage, AK",Urban,Food
+Bananas,95330,1.99,"Lathrop, CA",Rural,Food
+Bananas,91730,1.99,"Rancho Cucamonga, CA",Suburban,Food
+Bananas,90065,1.99,"Los Angeles, CA",Urban,Food
+Bananas,96740,4.69,"Kailua Kona, HI",Rural,Food
+Bananas,96734,4.69,"Kailua, HI",Suburban,Food
+Bananas,98614,1.99,"Chinook, WA",Urban,Food
+Bananas,98626,1.99,"Keslo, WA",Rural,Food
+Bananas,97303,1.99,"Salem, OR",Suburban,Food
+Bananas,97217,1.99,"Portland, OR",Urban,Food
+Bananas,98233,1.99,"Burlington, WA",Rural,Food
+Bananas,98901,1.99,"Yakima, WA",Suburban,Food
+Bananas,98101,2.19,"Seattle, WA",Urban,Food
+Vegetable Oil,99654,9.39,"Wasilla, AK",Suburban,Food
+Vegetable Oil,99654,9.39,"Wasilla, AK",Suburban,Food
+Vegetable Oil,99515,9.39,"Anchorage, AK",Urban,Food
+Vegetable Oil,95330,9.39,"Lathrop, CA",Rural,Food
+Vegetable Oil,91730,9.39,"Rancho Cucamonga, CA",Suburban,Food
+Vegetable Oil,90065,9.99,"Los Angeles, CA",Urban,Food
+Vegetable Oil,96740,9.39,"Kailua Kona, HI",Rural,Food
+Vegetable Oil,96734,9.39,"Kailua, HI",Suburban,Food
+Vegetable Oil,98614,9.39,"Chinook, WA",Urban,Food
+Vegetable Oil,98626,9.39,"Keslo, WA",Rural,Food
+Vegetable Oil,97303,9.39,"Salem, OR",Suburban,Food
+Vegetable Oil,97217,9.39,"Portland, OR",Urban,Food
+Vegetable Oil,98233,9.39,"Burlington, WA",Rural,Food
+Vegetable Oil,98901,9.39,"Yakima, WA",Suburban,Food
+Vegetable Oil,98101,10.39,"Seattle, WA",Urban,Food
+Gum,99654,1.69,"Wasilla, AK",Suburban,Snack
+Gum,99654,1.99,"Wasilla, AK",Suburban,Snack
+Gum,99515,1.99,"Anchorage, AK",Urban,Snack
+Gum,95330,1.79,"Lathrop, CA",Rural,Snack
+Gum,91730,1.79,"Rancho Cucamonga, CA",Suburban,Snack
+Gum,90065,1.79,"Los Angeles, CA",Urban,Snack
+Gum,96740,1.79,"Kailua Kona, HI",Rural,Snack
+Gum,96734,1.79,"Kailua, HI",Suburban,Snack
+Gum,98614,1.79,"Chinook, WA",Urban,Snack
+Gum,98626,1.79,"Keslo, WA",Rural,Snack
+Gum,97303,1.79,"Salem, OR",Suburban,Snack
+Gum,97217,1.79,"Portland, OR",Urban,Snack
+Gum,98233,1.79,"Burlington, WA",Rural,Snack
+Gum,98901,1.79,"Yakima, WA",Suburban,Snack
+Gum,98101,1.79,"Seattle, WA",Urban,Snack
+Toilet Paper,99654,12.99,"Wasilla, AK",Suburban,Toiletries
+Toilet Paper,99654,13.99,"Wasilla, AK",Suburban,Toiletries
+Toilet Paper,99515,13.99,"Anchorage, AK",Urban,Toiletries
+Toilet Paper,95330,12.99,"Lathrop, CA",Rural,Toiletries
+Toilet Paper,91730,12.99,"Rancho Cucamonga, CA",Suburban,Toiletries
+Toilet Paper,90065,13.59,"Los Angeles, CA",Urban,Toiletries
+Toilet Paper,96740,13.99,"Kailua Kona, HI",Rural,Toiletries
+Toilet Paper,96734,13.99,"Kailua, HI",Suburban,Toiletries
+Toilet Paper,98614,12.99,"Chinook, WA",Urban,Toiletries
+Toilet Paper,98626,12.99,"Keslo, WA",Rural,Toiletries
+Toilet Paper,97303,12.99,"Salem, OR",Suburban,Toiletries
+Toilet Paper,97217,12.99,"Portland, OR",Urban,Toiletries
+Toilet Paper,98233,12.99,"Burlington, WA",Rural,Toiletries
+Toilet Paper,98901,12.99,"Yakima, WA",Suburban,Toiletries
+Toilet Paper,98101,13.99,"Seattle, WA",Urban,Toiletries
+AirPods,99654,179.99,"Wasilla, AK",Suburban,Electronics
+AirPods,99654,179.99,"Wasilla, AK",Suburban,Electronics
+AirPods,99515,179.99,"Anchorage, AK",Urban,Electronics
+AirPods,95330,179.99,"Lathrop, CA",Rural,Electronics
+AirPods,91730,179.99,"Rancho Cucamonga, CA",Suburban,Electronics
+AirPods,90065,179.99,"Los Angeles, CA",Urban,Electronics
+AirPods,96740,179.99,"Kailua Kona, HI",Rural,Electronics
+AirPods,96734,179.99,"Kailua, HI",Suburban,Electronics
+AirPods,98614,179.99,"Chinook, WA",Urban,Electronics
+AirPods,98626,179.99,"Keslo, WA",Rural,Electronics
+AirPods,97303,179.99,"Salem, OR",Suburban,Electronics
+AirPods,97217,179.99,"Portland, OR",Urban,Electronics
+AirPods,98233,179.99,"Burlington, WA",Rural,Electronics
+AirPods,98901,179.99,"Yakima, WA",Suburban,Electronics
+AirPods,98101,179.99,"Seattle, WA",Urban,Electronics
+Cotton Swabs,99654,3.39,"Wasilla, AK",Suburban,Toiletries
+Cotton Swabs,99654,4.29,"Wasilla, AK",Suburban,Toiletries
+Cotton Swabs,99515,4.29,"Anchorage, AK",Urban,Toiletries
+Cotton Swabs,95330,3.39,"Lathrop, CA",Rural,Toiletries
+Cotton Swabs,91730,3.39,"Rancho Cucamonga, CA",Suburban,Toiletries
+Cotton Swabs,90065,3.39,"Los Angeles, CA",Urban,Toiletries
+Cotton Swabs,96740,3.69,"Kailua Kona, HI",Rural,Toiletries
+Cotton Swabs,96734,3.69,"Kailua, HI",Suburban,Toiletries
+Cotton Swabs,98614,3.39,"Chinook, WA",Urban,Toiletries
+Cotton Swabs,98626,3.39,"Keslo, WA",Rural,Toiletries
+Cotton Swabs,97303,3.39,"Salem, OR",Suburban,Toiletries
+Cotton Swabs,97217,3.39,"Portland, OR",Urban,Toiletries
+Cotton Swabs,98233,3.39,"Burlington, WA",Rural,Toiletries
+Cotton Swabs,98901,3.39,"Yakima, WA",Suburban,Toiletries
+Cotton Swabs,98101,3.99,"Seattle, WA",Urban,Toiletries
+Diapers,99654,44.99,"Wasilla, AK",Suburban,Baby Care
+Diapers,99654,44.99,"Wasilla, AK",Suburban,Baby Care
+Diapers,99515,44.99,"Anchorage, AK",Urban,Baby Care
+Diapers,95330,44.99,"Lathrop, CA",Rural,Baby Care
+Diapers,91730,44.99,"Rancho Cucamonga, CA",Suburban,Baby Care
+Diapers,90065,44.99,"Los Angeles, CA",Urban,Baby Care
+Diapers,96740,44.99,"Kailua Kona, HI",Rural,Baby Care
+Diapers,96734,44.99,"Kailua, HI",Suburban,Baby Care
+Diapers,98614,44.99,"Chinook, WA",Urban,Baby Care
+Diapers,98626,44.99,"Keslo, WA",Rural,Baby Care
+Diapers,97303,44.99,"Salem, OR",Suburban,Baby Care
+Diapers,97217,44.99,"Portland, OR",Urban,Baby Care
+Diapers,98233,44.99,"Burlington, WA",Rural,Baby Care
+Diapers,98901,44.99,"Yakima, WA",Suburban,Baby Care
+Diapers,98101,44.99,"Seattle, WA",Urban,Baby Care
+T-Shirt,99654,9.6,"Wasilla, AK",Suburban,Clothing
+T-Shirt,99654,9.6,"Wasilla, AK",Suburban,Clothing
+T-Shirt,99515,9.6,"Anchorage, AK",Urban,Clothing
+T-Shirt,95330,9.6,"Lathrop, CA",Rural,Clothing
+T-Shirt,91730,9.6,"Rancho Cucamonga, CA",Suburban,Clothing
+T-Shirt,90065,9.6,"Los Angeles, CA",Urban,Clothing
+T-Shirt,96740,9.6,"Kailua Kona, HI",Rural,Clothing
+T-Shirt,96734,9.6,"Kailua, HI",Suburban,Clothing
+T-Shirt,98614,9.6,"Chinook, WA",Urban,Clothing
+T-Shirt,98626,9.6,"Keslo, WA",Rural,Clothing
+T-Shirt,97303,9.6,"Salem, OR",Suburban,Clothing
+T-Shirt,97217,9.6,"Portland, OR",Urban,Clothing
+T-Shirt,98233,9.6,"Burlington, WA",Rural,Clothing
+T-Shirt,98901,9.6,"Yakima, WA",Suburban,Clothing
+T-Shirt,98101,9.6,"Seattle, WA",Urban,Clothing
+Eggs,99654,4.99,"Wasilla, AK",Suburban,Food
+Eggs,99654,4.99,"Wasilla, AK",Suburban,Food
+Eggs,99515,4.99,"Anchorage, AK",Urban,Food
+Eggs,95330,5.99,"Lathrop, CA",Rural,Food
+Eggs,91730,7.89,"Rancho Cucamonga, CA",Suburban,Food
+Eggs,90065,1.69,"Los Angeles, CA",Urban,Food
+Eggs,96740,2.19,"Kailua Kona, HI",Rural,Food
+Eggs,96734,2.19,"Kailua, HI",Suburban,Food
+Eggs,98614,4.49,"Chinook, WA",Urban,Food
+Eggs,98626,4.49,"Keslo, WA",Rural,Food
+Eggs,97303,4.49,"Salem, OR",Suburban,Food
+Eggs,97217,4.49,"Portland, OR",Urban,Food
+Eggs,98233,1.99,"Burlington, WA",Rural,Food
+Eggs,98901,1.99,"Yakima, WA",Suburban,Food
+Eggs,98101,1.99,"Seattle, WA",Urban,Food
+Shampoo,99654,9.99,"Wasilla, AK",Suburban,Toiletries
+Shampoo,99654,9.99,"Wasilla, AK",Suburban,Toiletries
+Shampoo,99515,9.99,"Anchorage, AK",Urban,Toiletries
+Shampoo,95330,9.99,"Lathrop, CA",Rural,Toiletries
+Shampoo,91730,9.99,"Rancho Cucamonga, CA",Suburban,Toiletries
+Shampoo,90065,9.99,"Los Angeles, CA",Urban,Toiletries
+Shampoo,96740,9.99,"Kailua Kona, HI",Rural,Toiletries
+Shampoo,96734,9.99,"Kailua, HI",Suburban,Toiletries
+Shampoo,98614,9.99,"Chinook, WA",Urban,Toiletries
+Shampoo,98626,9.99,"Keslo, WA",Rural,Toiletries
+Shampoo,97303,9.99,"Salem, OR",Suburban,Toiletries
+Shampoo,97217,9.99,"Portland, OR",Urban,Toiletries
+Shampoo,98233,9.99,"Burlington, WA",Rural,Toiletries
+Shampoo,98901,9.99,"Yakima, WA",Suburban,Toiletries
+Shampoo,98101,10.59,"Seattle, WA",Urban,Toiletries
+Milk,99654,4.69,"Wasilla, AK",Suburban,Food
+Milk,99654,3.89,"Wasilla, AK",Suburban,Food
+Milk,99515,3.89,"Anchorage, AK",Urban,Food
+Milk,95330,4.69,"Lathrop, CA",Rural,Food
+Milk,91730,3.99,"Rancho Cucamonga, CA",Suburban,Food
+Milk,90065,3.99,"Los Angeles, CA",Urban,Food
+Milk,96740,5.99,"Kailua Kona, HI",Rural,Food
+Milk,96734,5.99,"Kailua, HI",Suburban,Food
+Milk,98614,3.69,"Chinook, WA",Urban,Food
+Milk,98626,3.69,"Keslo, WA",Rural,Food
+Milk,97303,4.19,"Salem, OR",Suburban,Food
+Milk,97217,4.19,"Portland, OR",Urban,Food
+Milk,98233,3.49,"Burlington, WA",Rural,Food
+Milk,98901,3.59,"Yakima, WA",Suburban,Food
+Milk,98101,3.69,"Seattle, WA",Urban,Food

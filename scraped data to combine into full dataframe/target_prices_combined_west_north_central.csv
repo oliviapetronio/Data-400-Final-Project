@@ -1,0 +1,232 @@
+Product,Zip Code,Price,Location,Area Type,Category
+Bananas,50702,1.99,"Waterloo, IA",Rural,Food
+Bananas,50009,1.99,"Altoona, IA",Suburban,Food
+Bananas,52404,1.99,"Cedar Rapids, IA",Urban,Food
+Bananas,67401,1.99,"Salina, KS",Rural,Food
+Bananas,66062,1.99,"Olathe, KS",Suburban,Food
+Bananas,66111,1.99,"Kansas City, KS",Urban,Food
+Bananas,56601,1.99,"Bemidji, MN",Rural,Food
+Bananas,55066,1.99,"Red Wing, MN",Suburban,Food
+Bananas,55403,1.99,"Minneapolis, MN",Urban,Food
+Bananas,63010,1.99,"Arnold, MO",Rural,Food
+Bananas,63033,1.99,"Florissant, MO",Suburban,Food
+Bananas,64114,1.99,"Kansas City, MO",Urban,Food
+Bananas,68073,1.99,"Yutan, NE",Rural,Food
+Bananas,68123,1.99,"Bellevue, NE",Suburban,Food
+Bananas,68116,1.99,"Omaha, NE",Urban,Food
+Bananas,58563,1.99,"New Salem, ND",Rural,Food
+Bananas,58701,1.99,"Minot, ND",Suburban,Food
+Bananas,58103,1.99,"Fargo, ND",Urban,Food
+Bananas,57701,1.99,"Rapid City, SD",Rural,Food
+Bananas,57401,1.99,"Aberdeen, SD",Suburban,Food
+Bananas,57110,1.99,"Sioux Falls, SD",Urban,Food
+Vegetable Oil,50702,9.39,"Waterloo, IA",Rural,Food
+Vegetable Oil,50009,9.39,"Altoona, IA",Suburban,Food
+Vegetable Oil,52404,9.39,"Cedar Rapids, IA",Urban,Food
+Vegetable Oil,67401,9.39,"Salina, KS",Rural,Food
+Vegetable Oil,66062,9.39,"Olathe, KS",Suburban,Food
+Vegetable Oil,66111,9.39,"Kansas City, KS",Urban,Food
+Vegetable Oil,56601,9.39,"Bemidji, MN",Rural,Food
+Vegetable Oil,55066,9.39,"Red Wing, MN",Suburban,Food
+Vegetable Oil,55403,9.39,"Minneapolis, MN",Urban,Food
+Vegetable Oil,63010,9.39,"Arnold, MO",Rural,Food
+Vegetable Oil,63033,9.39,"Florissant, MO",Suburban,Food
+Vegetable Oil,64114,9.39,"Kansas City, MO",Urban,Food
+Vegetable Oil,68073,9.39,"Yutan, NE",Rural,Food
+Vegetable Oil,68123,9.39,"Bellevue, NE",Suburban,Food
+Vegetable Oil,68116,9.39,"Omaha, NE",Urban,Food
+Vegetable Oil,58563,9.39,"New Salem, ND",Rural,Food
+Vegetable Oil,58701,9.39,"Minot, ND",Suburban,Food
+Vegetable Oil,58103,9.39,"Fargo, ND",Urban,Food
+Vegetable Oil,57701,9.39,"Rapid City, SD",Rural,Food
+Vegetable Oil,57401,9.39,"Aberdeen, SD",Suburban,Food
+Vegetable Oil,57110,9.39,"Sioux Falls, SD",Urban,Food
+Gum,50702,1.79,"Waterloo, IA",Rural,Snack
+Gum,50009,1.79,"Altoona, IA",Suburban,Snack
+Gum,52404,1.79,"Cedar Rapids, IA",Urban,Snack
+Gum,67401,1.79,"Salina, KS",Rural,Snack
+Gum,66062,1.79,"Olathe, KS",Suburban,Snack
+Gum,66111,1.79,"Kansas City, KS",Urban,Snack
+Gum,56601,1.79,"Bemidji, MN",Rural,Snack
+Gum,55066,1.79,"Red Wing, MN",Suburban,Snack
+Gum,55403,1.79,"Minneapolis, MN",Urban,Snack
+Gum,63010,1.79,"Arnold, MO",Rural,Snack
+Gum,63033,1.79,"Florissant, MO",Suburban,Snack
+Gum,64114,1.79,"Kansas City, MO",Urban,Snack
+Gum,68073,1.79,"Yutan, NE",Rural,Snack
+Gum,68123,1.79,"Bellevue, NE",Suburban,Snack
+Gum,68116,1.79,"Omaha, NE",Urban,Snack
+Gum,58563,1.79,"New Salem, ND",Rural,Snack
+Gum,58701,1.79,"Minot, ND",Suburban,Snack
+Gum,58103,1.79,"Fargo, ND",Urban,Snack
+Gum,57701,1.79,"Rapid City, SD",Rural,Snack
+Gum,57401,1.79,"Aberdeen, SD",Suburban,Snack
+Gum,57110,1.79,"Sioux Falls, SD",Urban,Snack
+Toilet Paper,50702,12.99,"Waterloo, IA",Rural,Toiletries
+Toilet Paper,50009,12.99,"Altoona, IA",Suburban,Toiletries
+Toilet Paper,52404,12.99,"Cedar Rapids, IA",Urban,Toiletries
+Toilet Paper,67401,12.99,"Salina, KS",Rural,Toiletries
+Toilet Paper,66062,12.99,"Olathe, KS",Suburban,Toiletries
+Toilet Paper,66111,12.99,"Kansas City, KS",Urban,Toiletries
+Toilet Paper,56601,12.99,"Bemidji, MN",Rural,Toiletries
+Toilet Paper,55066,12.99,"Red Wing, MN",Suburban,Toiletries
+Toilet Paper,55403,12.99,"Minneapolis, MN",Urban,Toiletries
+Toilet Paper,63010,12.99,"Arnold, MO",Rural,Toiletries
+Toilet Paper,63033,12.99,"Florissant, MO",Suburban,Toiletries
+Toilet Paper,64114,12.99,"Kansas City, MO",Urban,Toiletries
+Toilet Paper,68073,12.99,"Yutan, NE",Rural,Toiletries
+Toilet Paper,68123,12.99,"Bellevue, NE",Suburban,Toiletries
+Toilet Paper,68116,12.99,"Omaha, NE",Urban,Toiletries
+Toilet Paper,58563,12.99,"New Salem, ND",Rural,Toiletries
+Toilet Paper,58701,12.99,"Minot, ND",Suburban,Toiletries
+Toilet Paper,58103,12.99,"Fargo, ND",Urban,Toiletries
+Toilet Paper,57701,12.99,"Rapid City, SD",Rural,Toiletries
+Toilet Paper,57401,12.99,"Aberdeen, SD",Suburban,Toiletries
+Toilet Paper,57110,12.99,"Sioux Falls, SD",Urban,Toiletries
+AirPods,50702,179.99,"Waterloo, IA",Rural,Electronics
+AirPods,50009,179.99,"Altoona, IA",Suburban,Electronics
+AirPods,52404,179.99,"Cedar Rapids, IA",Urban,Electronics
+AirPods,67401,179.99,"Salina, KS",Rural,Electronics
+AirPods,66062,179.99,"Olathe, KS",Suburban,Electronics
+AirPods,66111,179.99,"Kansas City, KS",Urban,Electronics
+AirPods,56601,179.99,"Bemidji, MN",Rural,Electronics
+AirPods,55066,179.99,"Red Wing, MN",Suburban,Electronics
+AirPods,55403,179.99,"Minneapolis, MN",Urban,Electronics
+AirPods,63010,179.99,"Arnold, MO",Rural,Electronics
+AirPods,63033,179.99,"Florissant, MO",Suburban,Electronics
+AirPods,64114,179.99,"Kansas City, MO",Urban,Electronics
+AirPods,68073,179.99,"Yutan, NE",Rural,Electronics
+AirPods,68123,179.99,"Bellevue, NE",Suburban,Electronics
+AirPods,68116,179.99,"Omaha, NE",Urban,Electronics
+AirPods,58563,179.99,"New Salem, ND",Rural,Electronics
+AirPods,58701,179.99,"Minot, ND",Suburban,Electronics
+AirPods,58103,179.99,"Fargo, ND",Urban,Electronics
+AirPods,57701,179.99,"Rapid City, SD",Rural,Electronics
+AirPods,57401,179.99,"Aberdeen, SD",Suburban,Electronics
+AirPods,57110,179.99,"Sioux Falls, SD",Urban,Electronics
+Cotton Swabs,50702,3.39,"Waterloo, IA",Rural,Toiletries
+Cotton Swabs,50009,3.39,"Altoona, IA",Suburban,Toiletries
+Cotton Swabs,52404,3.39,"Cedar Rapids, IA",Urban,Toiletries
+Cotton Swabs,67401,3.39,"Salina, KS",Rural,Toiletries
+Cotton Swabs,66062,3.39,"Olathe, KS",Suburban,Toiletries
+Cotton Swabs,66111,3.39,"Kansas City, KS",Urban,Toiletries
+Cotton Swabs,56601,3.39,"Bemidji, MN",Rural,Toiletries
+Cotton Swabs,55066,3.39,"Red Wing, MN",Suburban,Toiletries
+Cotton Swabs,55403,3.39,"Minneapolis, MN",Urban,Toiletries
+Cotton Swabs,63010,3.39,"Arnold, MO",Rural,Toiletries
+Cotton Swabs,63033,3.39,"Florissant, MO",Suburban,Toiletries
+Cotton Swabs,64114,3.39,"Kansas City, MO",Urban,Toiletries
+Cotton Swabs,68073,3.39,"Yutan, NE",Rural,Toiletries
+Cotton Swabs,68123,3.39,"Bellevue, NE",Suburban,Toiletries
+Cotton Swabs,68116,3.39,"Omaha, NE",Urban,Toiletries
+Cotton Swabs,58563,3.39,"New Salem, ND",Rural,Toiletries
+Cotton Swabs,58701,3.39,"Minot, ND",Suburban,Toiletries
+Cotton Swabs,58103,3.39,"Fargo, ND",Urban,Toiletries
+Cotton Swabs,57701,3.39,"Rapid City, SD",Rural,Toiletries
+Cotton Swabs,57401,3.39,"Aberdeen, SD",Suburban,Toiletries
+Cotton Swabs,57110,3.39,"Sioux Falls, SD",Urban,Toiletries
+Diapers,50702,44.99,"Waterloo, IA",Rural,Baby Care
+Diapers,50009,44.99,"Altoona, IA",Suburban,Baby Care
+Diapers,52404,44.99,"Cedar Rapids, IA",Urban,Baby Care
+Diapers,67401,44.99,"Salina, KS",Rural,Baby Care
+Diapers,66062,44.99,"Olathe, KS",Suburban,Baby Care
+Diapers,66111,44.99,"Kansas City, KS",Urban,Baby Care
+Diapers,56601,44.99,"Bemidji, MN",Rural,Baby Care
+Diapers,55066,44.99,"Red Wing, MN",Suburban,Baby Care
+Diapers,55403,44.99,"Minneapolis, MN",Urban,Baby Care
+Diapers,63010,44.99,"Arnold, MO",Rural,Baby Care
+Diapers,63033,44.99,"Florissant, MO",Suburban,Baby Care
+Diapers,64114,44.99,"Kansas City, MO",Urban,Baby Care
+Diapers,68073,44.99,"Yutan, NE",Rural,Baby Care
+Diapers,68123,44.99,"Bellevue, NE",Suburban,Baby Care
+Diapers,68116,44.99,"Omaha, NE",Urban,Baby Care
+Diapers,58563,44.99,"New Salem, ND",Rural,Baby Care
+Diapers,58701,44.99,"Minot, ND",Suburban,Baby Care
+Diapers,58103,44.99,"Fargo, ND",Urban,Baby Care
+Diapers,57701,44.99,"Rapid City, SD",Rural,Baby Care
+Diapers,57401,44.99,"Aberdeen, SD",Suburban,Baby Care
+Diapers,57110,44.99,"Sioux Falls, SD",Urban,Baby Care
+T-Shirt,50702,9.6,"Waterloo, IA",Rural,Clothing
+T-Shirt,50009,9.6,"Altoona, IA",Suburban,Clothing
+T-Shirt,52404,9.6,"Cedar Rapids, IA",Urban,Clothing
+T-Shirt,67401,9.6,"Salina, KS",Rural,Clothing
+T-Shirt,66062,9.6,"Olathe, KS",Suburban,Clothing
+T-Shirt,66111,9.6,"Kansas City, KS",Urban,Clothing
+T-Shirt,56601,9.6,"Bemidji, MN",Rural,Clothing
+T-Shirt,55066,9.6,"Red Wing, MN",Suburban,Clothing
+T-Shirt,55403,9.6,"Minneapolis, MN",Urban,Clothing
+T-Shirt,63010,9.6,"Arnold, MO",Rural,Clothing
+T-Shirt,63033,9.6,"Florissant, MO",Suburban,Clothing
+T-Shirt,64114,9.6,"Kansas City, MO",Urban,Clothing
+T-Shirt,68073,9.6,"Yutan, NE",Rural,Clothing
+T-Shirt,68123,9.6,"Bellevue, NE",Suburban,Clothing
+T-Shirt,68116,9.6,"Omaha, NE",Urban,Clothing
+T-Shirt,58563,9.6,"New Salem, ND",Rural,Clothing
+T-Shirt,58701,9.6,"Minot, ND",Suburban,Clothing
+T-Shirt,58103,9.6,"Fargo, ND",Urban,Clothing
+T-Shirt,57701,9.6,"Rapid City, SD",Rural,Clothing
+T-Shirt,57401,9.6,"Aberdeen, SD",Suburban,Clothing
+T-Shirt,57110,9.6,"Sioux Falls, SD",Urban,Clothing
+Eggs,50702,4.99,"Waterloo, IA",Rural,Food
+Eggs,50009,4.99,"Altoona, IA",Suburban,Food
+Eggs,52404,4.99,"Cedar Rapids, IA",Urban,Food
+Eggs,67401,4.99,"Salina, KS",Rural,Food
+Eggs,66062,4.99,"Olathe, KS",Suburban,Food
+Eggs,66111,4.99,"Kansas City, KS",Urban,Food
+Eggs,56601,4.99,"Bemidji, MN",Rural,Food
+Eggs,55066,4.99,"Red Wing, MN",Suburban,Food
+Eggs,55403,4.99,"Minneapolis, MN",Urban,Food
+Eggs,63010,4.99,"Arnold, MO",Rural,Food
+Eggs,63033,4.99,"Florissant, MO",Suburban,Food
+Eggs,64114,4.99,"Kansas City, MO",Urban,Food
+Eggs,68073,4.99,"Yutan, NE",Rural,Food
+Eggs,68123,4.99,"Bellevue, NE",Suburban,Food
+Eggs,68116,4.99,"Omaha, NE",Urban,Food
+Eggs,58563,4.99,"New Salem, ND",Rural,Food
+Eggs,58701,4.99,"Minot, ND",Suburban,Food
+Eggs,58103,4.99,"Fargo, ND",Urban,Food
+Eggs,57701,4.99,"Rapid City, SD",Rural,Food
+Eggs,57401,5.99,"Aberdeen, SD",Suburban,Food
+Eggs,57110,4.99,"Sioux Falls, SD",Urban,Food
+Shampoo,50702,9.99,"Waterloo, IA",Rural,Toiletries
+Shampoo,50009,9.99,"Altoona, IA",Suburban,Toiletries
+Shampoo,52404,9.99,"Cedar Rapids, IA",Urban,Toiletries
+Shampoo,67401,9.99,"Salina, KS",Rural,Toiletries
+Shampoo,66062,9.99,"Olathe, KS",Suburban,Toiletries
+Shampoo,66111,9.99,"Kansas City, KS",Urban,Toiletries
+Shampoo,56601,9.99,"Bemidji, MN",Rural,Toiletries
+Shampoo,55066,9.99,"Red Wing, MN",Suburban,Toiletries
+Shampoo,55403,9.99,"Minneapolis, MN",Urban,Toiletries
+Shampoo,63010,9.99,"Arnold, MO",Rural,Toiletries
+Shampoo,63033,9.99,"Florissant, MO",Suburban,Toiletries
+Shampoo,64114,9.99,"Kansas City, MO",Urban,Toiletries
+Shampoo,68073,9.99,"Yutan, NE",Rural,Toiletries
+Shampoo,68123,9.99,"Bellevue, NE",Suburban,Toiletries
+Shampoo,68116,9.99,"Omaha, NE",Urban,Toiletries
+Shampoo,58563,9.99,"New Salem, ND",Rural,Toiletries
+Shampoo,58701,9.99,"Minot, ND",Suburban,Toiletries
+Shampoo,58103,9.99,"Fargo, ND",Urban,Toiletries
+Shampoo,57701,9.99,"Rapid City, SD",Rural,Toiletries
+Shampoo,57401,9.99,"Aberdeen, SD",Suburban,Toiletries
+Shampoo,57110,9.99,"Sioux Falls, SD",Urban,Toiletries
+Milk,50702,2.79,"Waterloo, IA",Rural,Food
+Milk,50009,2.79,"Altoona, IA",Suburban,Food
+Milk,52404,2.79,"Cedar Rapids, IA",Urban,Food
+Milk,67401,3.29,"Salina, KS",Rural,Food
+Milk,66062,3.59,"Olathe, KS",Suburban,Food
+Milk,66111,3.59,"Kansas City, KS",Urban,Food
+Milk,56601,3.69,"Bemidji, MN",Rural,Food
+Milk,55066,3.69,"Red Wing, MN",Suburban,Food
+Milk,55403,3.69,"Minneapolis, MN",Urban,Food
+Milk,63010,4.59,"Arnold, MO",Rural,Food
+Milk,63033,4.59,"Florissant, MO",Suburban,Food
+Milk,64114,4.59,"Kansas City, MO",Urban,Food
+Milk,68073,2.59,"Yutan, NE",Rural,Food
+Milk,68123,2.59,"Bellevue, NE",Suburban,Food
+Milk,68116,2.59,"Omaha, NE",Urban,Food
+Milk,58563,3.79,"New Salem, ND",Rural,Food
+Milk,58701,3.79,"Minot, ND",Suburban,Food
+Milk,58103,3.79,"Fargo, ND",Urban,Food
+Milk,57701,3.89,"Rapid City, SD",Rural,Food
+Milk,57401,3.19,"Aberdeen, SD",Suburban,Food
+Milk,57110,2.89,"Sioux Falls, SD",Urban,Food

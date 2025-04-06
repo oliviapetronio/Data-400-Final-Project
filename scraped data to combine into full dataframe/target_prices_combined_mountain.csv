@@ -1,0 +1,276 @@
+Product,Zip Code,Price,Location,Area Type,Category
+Bananas,85748,1.99,"Tuscon, AZ",Rural,Food
+Bananas,85748,1.99,"Tuscon, AZ",Rural,Food
+Bananas,79707,1.99,"Midland, TX",Suburban,Food
+Bananas,85207,1.99,"Mesa, AZ",Urban,Food
+Bananas,81401,1.99,"Montrose, CO",Rural,Food
+Bananas,80108,1.99,"Castle Rock, CO",Suburban,Food
+Bananas,80202,2.19,"Denver, CO",Urban,Food
+Bananas,83704,1.99,"Boise, ID",Rural,Food
+Bananas,83815,1.99,"Coeur d'Alene, ID",Suburban,Food
+Bananas,83713,1.99,"West Valley, ID",Urban,Food
+Bananas,59718,1.99,"Bozeman, MT",Urban,Food
+Bananas,59901,1.99,"Kalispell, MT",Suburban,Food
+Bananas,59718,1.99,"Bozeman, MT",Urban,Food
+Bananas,89705,1.99,"Carson City, NV",Rural,Food
+Bananas,89434,1.99,"Sparks, NV",Suburban,Food
+Bananas,89183,1.99,"Las Vegas, NV",Urban,Food
+Bananas,87402,1.99,"Farmington, NM",Rural,Food
+Bananas,87124,1.99,"Rio Rancho, NM",Suburban,Food
+Bananas,87114,1.99,"Alberquerque, NM",Urban,Food
+Bananas,84660,1.99,"Spanish Fork, UT",Rural,Food
+Bananas,84095,1.99,"South Jordan, UT",Suburban,Food
+Bananas,84121,1.99,"Salt Lake City, UT",Urban,Food
+Bananas,82609,1.99,"Casper, WY",Rural,Food
+Bananas,83001,2.19,"Jackson, WY",Suburban,Food
+Bananas,82009,1.99,"Cheyenne, WY",Urban,Food
+Vegetable Oil,85748,9.39,"Tuscon, AZ",Rural,Food
+Vegetable Oil,85748,9.39,"Tuscon, AZ",Rural,Food
+Vegetable Oil,79707,9.39,"Midland, TX",Suburban,Food
+Vegetable Oil,85207,9.39,"Mesa, AZ",Urban,Food
+Vegetable Oil,81401,9.39,"Montrose, CO",Rural,Food
+Vegetable Oil,80108,9.39,"Castle Rock, CO",Suburban,Food
+Vegetable Oil,80202,10.39,"Denver, CO",Urban,Food
+Vegetable Oil,83704,9.39,"Boise, ID",Rural,Food
+Vegetable Oil,83815,9.39,"Coeur d'Alene, ID",Suburban,Food
+Vegetable Oil,83713,9.39,"West Valley, ID",Urban,Food
+Vegetable Oil,59718,9.39,"Bozeman, MT",Urban,Food
+Vegetable Oil,59901,9.39,"Kalispell, MT",Suburban,Food
+Vegetable Oil,59718,9.39,"Bozeman, MT",Urban,Food
+Vegetable Oil,89705,9.39,"Carson City, NV",Rural,Food
+Vegetable Oil,89434,9.39,"Sparks, NV",Suburban,Food
+Vegetable Oil,89183,9.39,"Las Vegas, NV",Urban,Food
+Vegetable Oil,87402,9.39,"Farmington, NM",Rural,Food
+Vegetable Oil,87124,9.39,"Rio Rancho, NM",Suburban,Food
+Vegetable Oil,87114,9.39,"Alberquerque, NM",Urban,Food
+Vegetable Oil,84660,9.39,"Spanish Fork, UT",Rural,Food
+Vegetable Oil,84095,9.39,"South Jordan, UT",Suburban,Food
+Vegetable Oil,84121,9.39,"Salt Lake City, UT",Urban,Food
+Vegetable Oil,82609,9.39,"Casper, WY",Rural,Food
+Vegetable Oil,83001,10.39,"Jackson, WY",Suburban,Food
+Vegetable Oil,82009,9.39,"Cheyenne, WY",Urban,Food
+Gum,85748,1.69,"Tuscon, AZ",Rural,Snack
+Gum,85748,1.79,"Tuscon, AZ",Rural,Snack
+Gum,79707,1.79,"Midland, TX",Suburban,Snack
+Gum,85207,1.79,"Mesa, AZ",Urban,Snack
+Gum,81401,1.79,"Montrose, CO",Rural,Snack
+Gum,80108,1.79,"Castle Rock, CO",Suburban,Snack
+Gum,80202,1.79,"Denver, CO",Urban,Snack
+Gum,83704,1.79,"Boise, ID",Rural,Snack
+Gum,83815,1.79,"Coeur d'Alene, ID",Suburban,Snack
+Gum,83713,1.79,"West Valley, ID",Urban,Snack
+Gum,59718,1.79,"Bozeman, MT",Urban,Snack
+Gum,59901,1.79,"Kalispell, MT",Suburban,Snack
+Gum,59718,1.79,"Bozeman, MT",Urban,Snack
+Gum,89705,1.79,"Carson City, NV",Rural,Snack
+Gum,89434,1.79,"Sparks, NV",Suburban,Snack
+Gum,89183,1.79,"Las Vegas, NV",Urban,Snack
+Gum,87402,1.79,"Farmington, NM",Rural,Snack
+Gum,87124,1.79,"Rio Rancho, NM",Suburban,Snack
+Gum,87114,1.79,"Alberquerque, NM",Urban,Snack
+Gum,84660,1.79,"Spanish Fork, UT",Rural,Snack
+Gum,84095,1.79,"South Jordan, UT",Suburban,Snack
+Gum,84121,1.79,"Salt Lake City, UT",Urban,Snack
+Gum,82609,1.79,"Casper, WY",Rural,Snack
+Gum,83001,1.79,"Jackson, WY",Suburban,Snack
+Gum,82009,1.79,"Cheyenne, WY",Urban,Snack
+Toilet Paper,85748,12.99,"Tuscon, AZ",Rural,Toiletries
+Toilet Paper,85748,12.99,"Tuscon, AZ",Rural,Toiletries
+Toilet Paper,79707,12.99,"Midland, TX",Suburban,Toiletries
+Toilet Paper,85207,12.99,"Mesa, AZ",Urban,Toiletries
+Toilet Paper,81401,12.99,"Montrose, CO",Rural,Toiletries
+Toilet Paper,80108,12.99,"Castle Rock, CO",Suburban,Toiletries
+Toilet Paper,80202,13.79,"Denver, CO",Urban,Toiletries
+Toilet Paper,83704,12.99,"Boise, ID",Rural,Toiletries
+Toilet Paper,83815,12.99,"Coeur d'Alene, ID",Suburban,Toiletries
+Toilet Paper,83713,12.99,"West Valley, ID",Urban,Toiletries
+Toilet Paper,59718,12.99,"Bozeman, MT",Urban,Toiletries
+Toilet Paper,59901,12.99,"Kalispell, MT",Suburban,Toiletries
+Toilet Paper,59718,12.99,"Bozeman, MT",Urban,Toiletries
+Toilet Paper,89705,12.99,"Carson City, NV",Rural,Toiletries
+Toilet Paper,89434,12.99,"Sparks, NV",Suburban,Toiletries
+Toilet Paper,89183,12.99,"Las Vegas, NV",Urban,Toiletries
+Toilet Paper,87402,12.99,"Farmington, NM",Rural,Toiletries
+Toilet Paper,87124,12.99,"Rio Rancho, NM",Suburban,Toiletries
+Toilet Paper,87114,12.99,"Alberquerque, NM",Urban,Toiletries
+Toilet Paper,84660,12.99,"Spanish Fork, UT",Rural,Toiletries
+Toilet Paper,84095,12.99,"South Jordan, UT",Suburban,Toiletries
+Toilet Paper,84121,12.99,"Salt Lake City, UT",Urban,Toiletries
+Toilet Paper,82609,12.99,"Casper, WY",Rural,Toiletries
+Toilet Paper,83001,13.99,"Jackson, WY",Suburban,Toiletries
+Toilet Paper,82009,12.99,"Cheyenne, WY",Urban,Toiletries
+AirPods,85748,179.99,"Tuscon, AZ",Rural,Electronics
+AirPods,85748,179.99,"Tuscon, AZ",Rural,Electronics
+AirPods,79707,179.99,"Midland, TX",Suburban,Electronics
+AirPods,85207,179.99,"Mesa, AZ",Urban,Electronics
+AirPods,81401,179.99,"Montrose, CO",Rural,Electronics
+AirPods,80108,179.99,"Castle Rock, CO",Suburban,Electronics
+AirPods,80202,179.99,"Denver, CO",Urban,Electronics
+AirPods,83704,179.99,"Boise, ID",Rural,Electronics
+AirPods,83815,179.99,"Coeur d'Alene, ID",Suburban,Electronics
+AirPods,83713,179.99,"West Valley, ID",Urban,Electronics
+AirPods,59718,179.99,"Bozeman, MT",Urban,Electronics
+AirPods,59901,179.99,"Kalispell, MT",Suburban,Electronics
+AirPods,59718,179.99,"Bozeman, MT",Urban,Electronics
+AirPods,89705,179.99,"Carson City, NV",Rural,Electronics
+AirPods,89434,179.99,"Sparks, NV",Suburban,Electronics
+AirPods,89183,179.99,"Las Vegas, NV",Urban,Electronics
+AirPods,87402,179.99,"Farmington, NM",Rural,Electronics
+AirPods,87124,179.99,"Rio Rancho, NM",Suburban,Electronics
+AirPods,87114,179.99,"Alberquerque, NM",Urban,Electronics
+AirPods,84660,179.99,"Spanish Fork, UT",Rural,Electronics
+AirPods,84095,179.99,"South Jordan, UT",Suburban,Electronics
+AirPods,84121,179.99,"Salt Lake City, UT",Urban,Electronics
+AirPods,82609,179.99,"Casper, WY",Rural,Electronics
+AirPods,83001,179.99,"Jackson, WY",Suburban,Electronics
+AirPods,82009,179.99,"Cheyenne, WY",Urban,Electronics
+Cotton Swabs,85748,3.39,"Tuscon, AZ",Rural,Toiletries
+Cotton Swabs,85748,3.39,"Tuscon, AZ",Rural,Toiletries
+Cotton Swabs,79707,3.39,"Midland, TX",Suburban,Toiletries
+Cotton Swabs,85207,3.39,"Mesa, AZ",Urban,Toiletries
+Cotton Swabs,81401,3.39,"Montrose, CO",Rural,Toiletries
+Cotton Swabs,80108,3.39,"Castle Rock, CO",Suburban,Toiletries
+Cotton Swabs,80202,3.49,"Denver, CO",Urban,Toiletries
+Cotton Swabs,83704,3.39,"Boise, ID",Rural,Toiletries
+Cotton Swabs,83815,3.39,"Coeur d'Alene, ID",Suburban,Toiletries
+Cotton Swabs,83713,3.39,"West Valley, ID",Urban,Toiletries
+Cotton Swabs,59718,3.39,"Bozeman, MT",Urban,Toiletries
+Cotton Swabs,59901,3.39,"Kalispell, MT",Suburban,Toiletries
+Cotton Swabs,59718,3.39,"Bozeman, MT",Urban,Toiletries
+Cotton Swabs,89705,3.39,"Carson City, NV",Rural,Toiletries
+Cotton Swabs,89434,3.39,"Sparks, NV",Suburban,Toiletries
+Cotton Swabs,89183,3.39,"Las Vegas, NV",Urban,Toiletries
+Cotton Swabs,87402,3.39,"Farmington, NM",Rural,Toiletries
+Cotton Swabs,87124,3.39,"Rio Rancho, NM",Suburban,Toiletries
+Cotton Swabs,87114,3.39,"Alberquerque, NM",Urban,Toiletries
+Cotton Swabs,84660,3.39,"Spanish Fork, UT",Rural,Toiletries
+Cotton Swabs,84095,3.39,"South Jordan, UT",Suburban,Toiletries
+Cotton Swabs,84121,3.39,"Salt Lake City, UT",Urban,Toiletries
+Cotton Swabs,82609,3.39,"Casper, WY",Rural,Toiletries
+Cotton Swabs,83001,3.49,"Jackson, WY",Suburban,Toiletries
+Cotton Swabs,82009,3.39,"Cheyenne, WY",Urban,Toiletries
+Diapers,85748,44.99,"Tuscon, AZ",Rural,Baby Care
+Diapers,85748,44.99,"Tuscon, AZ",Rural,Baby Care
+Diapers,79707,44.99,"Midland, TX",Suburban,Baby Care
+Diapers,85207,44.99,"Mesa, AZ",Urban,Baby Care
+Diapers,81401,44.99,"Montrose, CO",Rural,Baby Care
+Diapers,80108,44.99,"Castle Rock, CO",Suburban,Baby Care
+Diapers,80202,44.99,"Denver, CO",Urban,Baby Care
+Diapers,83704,44.99,"Boise, ID",Rural,Baby Care
+Diapers,83815,44.99,"Coeur d'Alene, ID",Suburban,Baby Care
+Diapers,83713,44.99,"West Valley, ID",Urban,Baby Care
+Diapers,59718,44.99,"Bozeman, MT",Urban,Baby Care
+Diapers,59901,44.99,"Kalispell, MT",Suburban,Baby Care
+Diapers,59718,44.99,"Bozeman, MT",Urban,Baby Care
+Diapers,89705,44.99,"Carson City, NV",Rural,Baby Care
+Diapers,89434,44.99,"Sparks, NV",Suburban,Baby Care
+Diapers,89183,44.99,"Las Vegas, NV",Urban,Baby Care
+Diapers,87402,44.99,"Farmington, NM",Rural,Baby Care
+Diapers,87124,44.99,"Rio Rancho, NM",Suburban,Baby Care
+Diapers,87114,44.99,"Alberquerque, NM",Urban,Baby Care
+Diapers,84660,44.99,"Spanish Fork, UT",Rural,Baby Care
+Diapers,84095,44.99,"South Jordan, UT",Suburban,Baby Care
+Diapers,84121,44.99,"Salt Lake City, UT",Urban,Baby Care
+Diapers,82609,44.99,"Casper, WY",Rural,Baby Care
+Diapers,83001,44.99,"Jackson, WY",Suburban,Baby Care
+Diapers,82009,44.99,"Cheyenne, WY",Urban,Baby Care
+T-Shirt,85748,9.6,"Tuscon, AZ",Rural,Clothing
+T-Shirt,85748,9.6,"Tuscon, AZ",Rural,Clothing
+T-Shirt,79707,9.6,"Midland, TX",Suburban,Clothing
+T-Shirt,85207,9.6,"Mesa, AZ",Urban,Clothing
+T-Shirt,81401,9.6,"Montrose, CO",Rural,Clothing
+T-Shirt,80108,9.6,"Castle Rock, CO",Suburban,Clothing
+T-Shirt,80202,9.6,"Denver, CO",Urban,Clothing
+T-Shirt,83704,9.6,"Boise, ID",Rural,Clothing
+T-Shirt,83815,9.6,"Coeur d'Alene, ID",Suburban,Clothing
+T-Shirt,83713,9.6,"West Valley, ID",Urban,Clothing
+T-Shirt,59718,9.6,"Bozeman, MT",Urban,Clothing
+T-Shirt,59901,9.6,"Kalispell, MT",Suburban,Clothing
+T-Shirt,59718,9.6,"Bozeman, MT",Urban,Clothing
+T-Shirt,89705,9.6,"Carson City, NV",Rural,Clothing
+T-Shirt,89434,9.6,"Sparks, NV",Suburban,Clothing
+T-Shirt,89183,9.6,"Las Vegas, NV",Urban,Clothing
+T-Shirt,87402,9.6,"Farmington, NM",Rural,Clothing
+T-Shirt,87124,9.6,"Rio Rancho, NM",Suburban,Clothing
+T-Shirt,87114,9.6,"Alberquerque, NM",Urban,Clothing
+T-Shirt,84660,9.6,"Spanish Fork, UT",Rural,Clothing
+T-Shirt,84095,9.6,"South Jordan, UT",Suburban,Clothing
+T-Shirt,84121,9.6,"Salt Lake City, UT",Urban,Clothing
+T-Shirt,82609,9.6,"Casper, WY",Rural,Clothing
+T-Shirt,83001,9.6,"Jackson, WY",Suburban,Clothing
+T-Shirt,82009,9.6,"Cheyenne, WY",Urban,Clothing
+Eggs,85748,4.99,"Tuscon, AZ",Rural,Food
+Eggs,85748,3.99,"Tuscon, AZ",Rural,Food
+Eggs,79707,3.99,"Midland, TX",Suburban,Food
+Eggs,85207,3.99,"Mesa, AZ",Urban,Food
+Eggs,81401,4.49,"Montrose, CO",Rural,Food
+Eggs,80108,4.99,"Castle Rock, CO",Suburban,Food
+Eggs,80202,5.29,"Denver, CO",Urban,Food
+Eggs,83704,4.99,"Boise, ID",Rural,Food
+Eggs,83815,1.79,"Coeur d'Alene, ID",Suburban,Food
+Eggs,83713,4.99,"West Valley, ID",Urban,Food
+Eggs,59718,4.99,"Bozeman, MT",Urban,Food
+Eggs,59901,4.99,"Kalispell, MT",Suburban,Food
+Eggs,59718,4.99,"Bozeman, MT",Urban,Food
+Eggs,89705,1.49,"Carson City, NV",Rural,Food
+Eggs,89434,1.49,"Sparks, NV",Suburban,Food
+Eggs,89183,3.99,"Las Vegas, NV",Urban,Food
+Eggs,87402,4.99,"Farmington, NM",Rural,Food
+Eggs,87124,4.59,"Rio Rancho, NM",Suburban,Food
+Eggs,87114,4.59,"Alberquerque, NM",Urban,Food
+Eggs,84660,4.99,"Spanish Fork, UT",Rural,Food
+Eggs,84095,4.99,"South Jordan, UT",Suburban,Food
+Eggs,84121,4.99,"Salt Lake City, UT",Urban,Food
+Eggs,82609,4.99,"Casper, WY",Rural,Food
+Eggs,83001,8.69,"Jackson, WY",Suburban,Food
+Eggs,82009,4.99,"Cheyenne, WY",Urban,Food
+Shampoo,85748,9.99,"Tuscon, AZ",Rural,Toiletries
+Shampoo,85748,9.99,"Tuscon, AZ",Rural,Toiletries
+Shampoo,79707,9.99,"Midland, TX",Suburban,Toiletries
+Shampoo,85207,9.99,"Mesa, AZ",Urban,Toiletries
+Shampoo,81401,9.99,"Montrose, CO",Rural,Toiletries
+Shampoo,80108,9.99,"Castle Rock, CO",Suburban,Toiletries
+Shampoo,80202,10.59,"Denver, CO",Urban,Toiletries
+Shampoo,83704,9.99,"Boise, ID",Rural,Toiletries
+Shampoo,83815,9.99,"Coeur d'Alene, ID",Suburban,Toiletries
+Shampoo,83713,9.99,"West Valley, ID",Urban,Toiletries
+Shampoo,59718,9.99,"Bozeman, MT",Urban,Toiletries
+Shampoo,59901,9.99,"Kalispell, MT",Suburban,Toiletries
+Shampoo,59718,9.99,"Bozeman, MT",Urban,Toiletries
+Shampoo,89705,9.99,"Carson City, NV",Rural,Toiletries
+Shampoo,89434,9.99,"Sparks, NV",Suburban,Toiletries
+Shampoo,89183,9.99,"Las Vegas, NV",Urban,Toiletries
+Shampoo,87402,9.99,"Farmington, NM",Rural,Toiletries
+Shampoo,87124,9.99,"Rio Rancho, NM",Suburban,Toiletries
+Shampoo,87114,9.99,"Alberquerque, NM",Urban,Toiletries
+Shampoo,84660,9.99,"Spanish Fork, UT",Rural,Toiletries
+Shampoo,84095,9.99,"South Jordan, UT",Suburban,Toiletries
+Shampoo,84121,9.99,"Salt Lake City, UT",Urban,Toiletries
+Shampoo,82609,9.99,"Casper, WY",Rural,Toiletries
+Shampoo,83001,9.99,"Jackson, WY",Suburban,Toiletries
+Shampoo,82009,9.99,"Cheyenne, WY",Urban,Toiletries
+Milk,85748,4.69,"Tuscon, AZ",Rural,Food
+Milk,85748,3.39,"Tuscon, AZ",Rural,Food
+Milk,79707,3.39,"Midland, TX",Suburban,Food
+Milk,85207,2.49,"Mesa, AZ",Urban,Food
+Milk,81401,3.89,"Montrose, CO",Rural,Food
+Milk,80108,3.59,"Castle Rock, CO",Suburban,Food
+Milk,80202,3.79,"Denver, CO",Urban,Food
+Milk,83704,3.29,"Boise, ID",Rural,Food
+Milk,83815,3.59,"Coeur d'Alene, ID",Suburban,Food
+Milk,83713,3.89,"West Valley, ID",Urban,Food
+Milk,59718,3.59,"Bozeman, MT",Urban,Food
+Milk,59901,3.79,"Kalispell, MT",Suburban,Food
+Milk,59718,3.59,"Bozeman, MT",Urban,Food
+Milk,89705,4.69,"Carson City, NV",Rural,Food
+Milk,89434,4.69,"Sparks, NV",Suburban,Food
+Milk,89183,3.89,"Las Vegas, NV",Urban,Food
+Milk,87402,3.39,"Farmington, NM",Rural,Food
+Milk,87124,3.39,"Rio Rancho, NM",Suburban,Food
+Milk,87114,3.39,"Alberquerque, NM",Urban,Food
+Milk,84660,3.19,"Spanish Fork, UT",Rural,Food
+Milk,84095,3.19,"South Jordan, UT",Suburban,Food
+Milk,84121,3.19,"Salt Lake City, UT",Urban,Food
+Milk,82609,3.89,"Casper, WY",Rural,Food
+Milk,83001,4.39,"Jackson, WY",Suburban,Food
+Milk,82009,3.79,"Cheyenne, WY",Urban,Food

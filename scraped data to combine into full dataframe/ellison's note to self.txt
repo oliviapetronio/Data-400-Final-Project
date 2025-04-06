@@ -1,0 +1,1 @@
+I found a bug in the scraping code after scraping the first three, and I didn’t have time to redo them. Before we use the data for mountain, pacific, or west south central, there’s a duplicate line at the beginning of each item category. Delete the first duplicate, as it has the incorrect price listed.

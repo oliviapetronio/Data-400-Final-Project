@@ -1,0 +1,265 @@
+Product,Zip Code,Price,Location,Area Type,Category
+Bananas,19931,1.99,"Bethel, DE",Rural,Food
+Bananas,19901,1.99,"Dover, DE",Suburban,Food
+Bananas,19808,1.99,"Wilmington, DE",Urban,Food
+Bananas,33403,1.99,"North Palm Beach, FL",Rural,Food
+Bananas,33463,1.99,"Lake Worth, FL",Suburban,Food
+Bananas,33428,1.99,"Boca Raton, FL",Urban,Food
+Bananas,31525,1.99,"Brunswick, GA",Rural,Food
+Bananas,30189,1.99,"Woodstock, GA",Suburban,Food
+Bananas,30324,1.99,"Atlanta, GA",Urban,Food
+Bananas,21030,1.99,"Cockeysville, MD",Rural,Food
+Bananas,21009,1.99,"Abingdon, MD",Suburban,Food
+Bananas,21704,1.99,"Frederick, MD",Urban,Food
+Bananas,28704,1.99,"Arden, NC",Rural,Food
+Bananas,28104,1.99,"Matthews, NC",Suburban,Food
+Bananas,27609,1.99,"Raleigh, NC",Urban,Food
+Bananas,29621,1.99,"Anderson, SC",Rural,Food
+Bananas,29680,1.99,"Simpsonville, SC",Suburban,Food
+Bananas,29607,1.99,"Greenville, SC",Urban,Food
+Bananas,24487,1.99,"Williamsville, VA",Rural,Food
+Bananas,24151,1.99,"Rocky Mount, VA",Suburban,Food
+Bananas,22305,1.99,"Alexandria, VA",Urban,Food
+Bananas,25526,1.99,"Hurricane, WV",Rural,Food
+Bananas,26059,1.99,"Triladelphia, WV",Suburban,Food
+Bananas,25309,1.99,"South Charleston, WV",Urban,Food
+Vegetable Oil,19931,9.39,"Bethel, DE",Rural,Food
+Vegetable Oil,19901,9.39,"Dover, DE",Suburban,Food
+Vegetable Oil,19808,9.39,"Wilmington, DE",Urban,Food
+Vegetable Oil,33403,9.39,"North Palm Beach, FL",Rural,Food
+Vegetable Oil,33463,9.39,"Lake Worth, FL",Suburban,Food
+Vegetable Oil,33428,9.39,"Boca Raton, FL",Urban,Food
+Vegetable Oil,31525,9.39,"Brunswick, GA",Rural,Food
+Vegetable Oil,30189,9.39,"Woodstock, GA",Suburban,Food
+Vegetable Oil,30324,9.39,"Atlanta, GA",Urban,Food
+Vegetable Oil,21030,9.39,"Cockeysville, MD",Rural,Food
+Vegetable Oil,21009,9.39,"Abingdon, MD",Suburban,Food
+Vegetable Oil,21704,9.39,"Frederick, MD",Urban,Food
+Vegetable Oil,28704,9.39,"Arden, NC",Rural,Food
+Vegetable Oil,28104,9.39,"Matthews, NC",Suburban,Food
+Vegetable Oil,27609,9.39,"Raleigh, NC",Urban,Food
+Vegetable Oil,29621,9.39,"Anderson, SC",Rural,Food
+Vegetable Oil,29680,9.39,"Simpsonville, SC",Suburban,Food
+Vegetable Oil,29607,9.39,"Greenville, SC",Urban,Food
+Vegetable Oil,24487,9.39,"Williamsville, VA",Rural,Food
+Vegetable Oil,24151,9.39,"Rocky Mount, VA",Suburban,Food
+Vegetable Oil,22305,9.99,"Alexandria, VA",Urban,Food
+Vegetable Oil,25526,9.39,"Hurricane, WV",Rural,Food
+Vegetable Oil,26059,9.39,"Triladelphia, WV",Suburban,Food
+Vegetable Oil,25309,9.39,"South Charleston, WV",Urban,Food
+Gum,19931,1.69,"Bethel, DE",Rural,Snack
+Gum,19901,1.69,"Dover, DE",Suburban,Snack
+Gum,19808,1.69,"Wilmington, DE",Urban,Snack
+Gum,33403,1.79,"North Palm Beach, FL",Rural,Snack
+Gum,33463,1.79,"Lake Worth, FL",Suburban,Snack
+Gum,33428,1.79,"Boca Raton, FL",Urban,Snack
+Gum,31525,1.79,"Brunswick, GA",Rural,Snack
+Gum,30189,1.79,"Woodstock, GA",Suburban,Snack
+Gum,30324,1.79,"Atlanta, GA",Urban,Snack
+Gum,21030,1.79,"Cockeysville, MD",Rural,Snack
+Gum,21009,1.79,"Abingdon, MD",Suburban,Snack
+Gum,21704,1.69,"Frederick, MD",Urban,Snack
+Gum,28704,1.79,"Arden, NC",Rural,Snack
+Gum,28104,1.79,"Matthews, NC",Suburban,Snack
+Gum,27609,1.79,"Raleigh, NC",Urban,Snack
+Gum,29621,1.79,"Anderson, SC",Rural,Snack
+Gum,29680,1.79,"Simpsonville, SC",Suburban,Snack
+Gum,29607,1.79,"Greenville, SC",Urban,Snack
+Gum,24487,1.79,"Williamsville, VA",Rural,Snack
+Gum,24151,1.79,"Rocky Mount, VA",Suburban,Snack
+Gum,22305,1.89,"Alexandria, VA",Urban,Snack
+Gum,25526,1.79,"Hurricane, WV",Rural,Snack
+Gum,26059,1.79,"Triladelphia, WV",Suburban,Snack
+Gum,25309,1.79,"South Charleston, WV",Urban,Snack
+Toilet Paper,19931,12.99,"Bethel, DE",Rural,Toiletries
+Toilet Paper,19901,12.99,"Dover, DE",Suburban,Toiletries
+Toilet Paper,19808,12.99,"Wilmington, DE",Urban,Toiletries
+Toilet Paper,33403,12.99,"North Palm Beach, FL",Rural,Toiletries
+Toilet Paper,33463,12.99,"Lake Worth, FL",Suburban,Toiletries
+Toilet Paper,33428,12.99,"Boca Raton, FL",Urban,Toiletries
+Toilet Paper,31525,12.99,"Brunswick, GA",Rural,Toiletries
+Toilet Paper,30189,12.99,"Woodstock, GA",Suburban,Toiletries
+Toilet Paper,30324,12.99,"Atlanta, GA",Urban,Toiletries
+Toilet Paper,21030,12.99,"Cockeysville, MD",Rural,Toiletries
+Toilet Paper,21009,12.99,"Abingdon, MD",Suburban,Toiletries
+Toilet Paper,21704,12.99,"Frederick, MD",Urban,Toiletries
+Toilet Paper,28704,12.99,"Arden, NC",Rural,Toiletries
+Toilet Paper,28104,12.99,"Matthews, NC",Suburban,Toiletries
+Toilet Paper,27609,12.99,"Raleigh, NC",Urban,Toiletries
+Toilet Paper,29621,12.99,"Anderson, SC",Rural,Toiletries
+Toilet Paper,29680,12.99,"Simpsonville, SC",Suburban,Toiletries
+Toilet Paper,29607,12.99,"Greenville, SC",Urban,Toiletries
+Toilet Paper,24487,12.99,"Williamsville, VA",Rural,Toiletries
+Toilet Paper,24151,12.99,"Rocky Mount, VA",Suburban,Toiletries
+Toilet Paper,22305,13.79,"Alexandria, VA",Urban,Toiletries
+Toilet Paper,25526,12.99,"Hurricane, WV",Rural,Toiletries
+Toilet Paper,26059,12.99,"Triladelphia, WV",Suburban,Toiletries
+Toilet Paper,25309,12.99,"South Charleston, WV",Urban,Toiletries
+AirPods,19931,179.99,"Bethel, DE",Rural,Electronics
+AirPods,19901,179.99,"Dover, DE",Suburban,Electronics
+AirPods,19808,179.99,"Wilmington, DE",Urban,Electronics
+AirPods,33403,179.99,"North Palm Beach, FL",Rural,Electronics
+AirPods,33463,179.99,"Lake Worth, FL",Suburban,Electronics
+AirPods,33428,179.99,"Boca Raton, FL",Urban,Electronics
+AirPods,31525,179.99,"Brunswick, GA",Rural,Electronics
+AirPods,30189,179.99,"Woodstock, GA",Suburban,Electronics
+AirPods,30324,179.99,"Atlanta, GA",Urban,Electronics
+AirPods,21030,179.99,"Cockeysville, MD",Rural,Electronics
+AirPods,21009,179.99,"Abingdon, MD",Suburban,Electronics
+AirPods,21704,179.99,"Frederick, MD",Urban,Electronics
+AirPods,28704,179.99,"Arden, NC",Rural,Electronics
+AirPods,28104,179.99,"Matthews, NC",Suburban,Electronics
+AirPods,27609,179.99,"Raleigh, NC",Urban,Electronics
+AirPods,29621,179.99,"Anderson, SC",Rural,Electronics
+AirPods,29680,179.99,"Simpsonville, SC",Suburban,Electronics
+AirPods,29607,179.99,"Greenville, SC",Urban,Electronics
+AirPods,24487,179.99,"Williamsville, VA",Rural,Electronics
+AirPods,24151,179.99,"Rocky Mount, VA",Suburban,Electronics
+AirPods,22305,179.99,"Alexandria, VA",Urban,Electronics
+AirPods,25526,179.99,"Hurricane, WV",Rural,Electronics
+AirPods,26059,179.99,"Triladelphia, WV",Suburban,Electronics
+AirPods,25309,179.99,"South Charleston, WV",Urban,Electronics
+Cotton Swabs,19931,3.39,"Bethel, DE",Rural,Toiletries
+Cotton Swabs,19901,3.39,"Dover, DE",Suburban,Toiletries
+Cotton Swabs,19808,3.39,"Wilmington, DE",Urban,Toiletries
+Cotton Swabs,33403,3.39,"North Palm Beach, FL",Rural,Toiletries
+Cotton Swabs,33463,3.39,"Lake Worth, FL",Suburban,Toiletries
+Cotton Swabs,33428,3.39,"Boca Raton, FL",Urban,Toiletries
+Cotton Swabs,31525,3.39,"Brunswick, GA",Rural,Toiletries
+Cotton Swabs,30189,3.39,"Woodstock, GA",Suburban,Toiletries
+Cotton Swabs,30324,3.39,"Atlanta, GA",Urban,Toiletries
+Cotton Swabs,21030,3.39,"Cockeysville, MD",Rural,Toiletries
+Cotton Swabs,21009,3.39,"Abingdon, MD",Suburban,Toiletries
+Cotton Swabs,21704,3.39,"Frederick, MD",Urban,Toiletries
+Cotton Swabs,28704,3.39,"Arden, NC",Rural,Toiletries
+Cotton Swabs,28104,3.39,"Matthews, NC",Suburban,Toiletries
+Cotton Swabs,27609,3.39,"Raleigh, NC",Urban,Toiletries
+Cotton Swabs,29621,3.39,"Anderson, SC",Rural,Toiletries
+Cotton Swabs,29680,3.39,"Simpsonville, SC",Suburban,Toiletries
+Cotton Swabs,29607,3.39,"Greenville, SC",Urban,Toiletries
+Cotton Swabs,24487,3.39,"Williamsville, VA",Rural,Toiletries
+Cotton Swabs,24151,3.39,"Rocky Mount, VA",Suburban,Toiletries
+Cotton Swabs,22305,3.39,"Alexandria, VA",Urban,Toiletries
+Cotton Swabs,25526,3.39,"Hurricane, WV",Rural,Toiletries
+Cotton Swabs,26059,3.39,"Triladelphia, WV",Suburban,Toiletries
+Cotton Swabs,25309,3.39,"South Charleston, WV",Urban,Toiletries
+Diapers,19931,44.99,"Bethel, DE",Rural,Baby Care
+Diapers,19901,44.99,"Dover, DE",Suburban,Baby Care
+Diapers,19808,44.99,"Wilmington, DE",Urban,Baby Care
+Diapers,33403,44.99,"North Palm Beach, FL",Rural,Baby Care
+Diapers,33463,44.99,"Lake Worth, FL",Suburban,Baby Care
+Diapers,33428,44.99,"Boca Raton, FL",Urban,Baby Care
+Diapers,31525,44.99,"Brunswick, GA",Rural,Baby Care
+Diapers,30189,44.99,"Woodstock, GA",Suburban,Baby Care
+Diapers,30324,44.99,"Atlanta, GA",Urban,Baby Care
+Diapers,21030,44.99,"Cockeysville, MD",Rural,Baby Care
+Diapers,21009,44.99,"Abingdon, MD",Suburban,Baby Care
+Diapers,21704,44.99,"Frederick, MD",Urban,Baby Care
+Diapers,28704,44.99,"Arden, NC",Rural,Baby Care
+Diapers,28104,44.99,"Matthews, NC",Suburban,Baby Care
+Diapers,27609,44.99,"Raleigh, NC",Urban,Baby Care
+Diapers,29621,44.99,"Anderson, SC",Rural,Baby Care
+Diapers,29680,44.99,"Simpsonville, SC",Suburban,Baby Care
+Diapers,29607,44.99,"Greenville, SC",Urban,Baby Care
+Diapers,24487,44.99,"Williamsville, VA",Rural,Baby Care
+Diapers,24151,44.99,"Rocky Mount, VA",Suburban,Baby Care
+Diapers,22305,44.99,"Alexandria, VA",Urban,Baby Care
+Diapers,25526,44.99,"Hurricane, WV",Rural,Baby Care
+Diapers,26059,44.99,"Triladelphia, WV",Suburban,Baby Care
+Diapers,25309,44.99,"South Charleston, WV",Urban,Baby Care
+T-Shirt,19931,9.6,"Bethel, DE",Rural,Clothing
+T-Shirt,19901,9.6,"Dover, DE",Suburban,Clothing
+T-Shirt,19808,9.6,"Wilmington, DE",Urban,Clothing
+T-Shirt,33403,9.6,"North Palm Beach, FL",Rural,Clothing
+T-Shirt,33463,9.6,"Lake Worth, FL",Suburban,Clothing
+T-Shirt,33428,9.6,"Boca Raton, FL",Urban,Clothing
+T-Shirt,31525,9.6,"Brunswick, GA",Rural,Clothing
+T-Shirt,30189,9.6,"Woodstock, GA",Suburban,Clothing
+T-Shirt,30324,9.6,"Atlanta, GA",Urban,Clothing
+T-Shirt,21030,9.6,"Cockeysville, MD",Rural,Clothing
+T-Shirt,21009,9.6,"Abingdon, MD",Suburban,Clothing
+T-Shirt,21704,9.6,"Frederick, MD",Urban,Clothing
+T-Shirt,28704,9.6,"Arden, NC",Rural,Clothing
+T-Shirt,28104,9.6,"Matthews, NC",Suburban,Clothing
+T-Shirt,27609,9.6,"Raleigh, NC",Urban,Clothing
+T-Shirt,29621,9.6,"Anderson, SC",Rural,Clothing
+T-Shirt,29680,9.6,"Simpsonville, SC",Suburban,Clothing
+T-Shirt,29607,9.6,"Greenville, SC",Urban,Clothing
+T-Shirt,24487,9.6,"Williamsville, VA",Rural,Clothing
+T-Shirt,24151,9.6,"Rocky Mount, VA",Suburban,Clothing
+T-Shirt,22305,9.6,"Alexandria, VA",Urban,Clothing
+T-Shirt,25526,9.6,"Hurricane, WV",Rural,Clothing
+T-Shirt,26059,9.6,"Triladelphia, WV",Suburban,Clothing
+T-Shirt,25309,9.6,"South Charleston, WV",Urban,Clothing
+Eggs,19931,4.99,"Bethel, DE",Rural,Food
+Eggs,19901,4.99,"Dover, DE",Suburban,Food
+Eggs,19808,4.99,"Wilmington, DE",Urban,Food
+Eggs,33403,4.99,"North Palm Beach, FL",Rural,Food
+Eggs,33463,4.99,"Lake Worth, FL",Suburban,Food
+Eggs,33428,4.99,"Boca Raton, FL",Urban,Food
+Eggs,31525,4.99,"Brunswick, GA",Rural,Food
+Eggs,30189,4.99,"Woodstock, GA",Suburban,Food
+Eggs,30324,4.99,"Atlanta, GA",Urban,Food
+Eggs,21030,4.99,"Cockeysville, MD",Rural,Food
+Eggs,21009,4.99,"Abingdon, MD",Suburban,Food
+Eggs,21704,4.99,"Frederick, MD",Urban,Food
+Eggs,28704,4.99,"Arden, NC",Rural,Food
+Eggs,28104,4.99,"Matthews, NC",Suburban,Food
+Eggs,27609,4.99,"Raleigh, NC",Urban,Food
+Eggs,29621,4.99,"Anderson, SC",Rural,Food
+Eggs,29680,4.99,"Simpsonville, SC",Suburban,Food
+Eggs,29607,4.99,"Greenville, SC",Urban,Food
+Eggs,24487,4.99,"Williamsville, VA",Rural,Food
+Eggs,24151,4.99,"Rocky Mount, VA",Suburban,Food
+Eggs,22305,5.19,"Alexandria, VA",Urban,Food
+Eggs,25526,4.99,"Hurricane, WV",Rural,Food
+Eggs,26059,4.99,"Triladelphia, WV",Suburban,Food
+Eggs,25309,4.99,"South Charleston, WV",Urban,Food
+Shampoo,19931,9.99,"Bethel, DE",Rural,Toiletries
+Shampoo,19901,9.99,"Dover, DE",Suburban,Toiletries
+Shampoo,19808,9.99,"Wilmington, DE",Urban,Toiletries
+Shampoo,33403,9.99,"North Palm Beach, FL",Rural,Toiletries
+Shampoo,33463,9.99,"Lake Worth, FL",Suburban,Toiletries
+Shampoo,33428,9.99,"Boca Raton, FL",Urban,Toiletries
+Shampoo,31525,9.99,"Brunswick, GA",Rural,Toiletries
+Shampoo,30189,9.99,"Woodstock, GA",Suburban,Toiletries
+Shampoo,30324,9.99,"Atlanta, GA",Urban,Toiletries
+Shampoo,21030,9.99,"Cockeysville, MD",Rural,Toiletries
+Shampoo,21009,9.99,"Abingdon, MD",Suburban,Toiletries
+Shampoo,21704,9.99,"Frederick, MD",Urban,Toiletries
+Shampoo,28704,9.99,"Arden, NC",Rural,Toiletries
+Shampoo,28104,9.99,"Matthews, NC",Suburban,Toiletries
+Shampoo,27609,9.99,"Raleigh, NC",Urban,Toiletries
+Shampoo,29621,9.99,"Anderson, SC",Rural,Toiletries
+Shampoo,29680,9.99,"Simpsonville, SC",Suburban,Toiletries
+Shampoo,29607,9.99,"Greenville, SC",Urban,Toiletries
+Shampoo,24487,9.99,"Williamsville, VA",Rural,Toiletries
+Shampoo,24151,9.99,"Rocky Mount, VA",Suburban,Toiletries
+Shampoo,22305,9.99,"Alexandria, VA",Urban,Toiletries
+Shampoo,25526,9.99,"Hurricane, WV",Rural,Toiletries
+Shampoo,26059,9.99,"Triladelphia, WV",Suburban,Toiletries
+Shampoo,25309,9.99,"South Charleston, WV",Urban,Toiletries
+Milk,19931,2.49,"Bethel, DE",Rural,Food
+Milk,19901,2.49,"Dover, DE",Suburban,Food
+Milk,19808,2.99,"Wilmington, DE",Urban,Food
+Milk,33403,2.99,"North Palm Beach, FL",Rural,Food
+Milk,33463,2.99,"Lake Worth, FL",Suburban,Food
+Milk,33428,2.99,"Boca Raton, FL",Urban,Food
+Milk,31525,3.69,"Brunswick, GA",Rural,Food
+Milk,30189,2.59,"Woodstock, GA",Suburban,Food
+Milk,30324,2.59,"Atlanta, GA",Urban,Food
+Milk,21030,2.49,"Cockeysville, MD",Rural,Food
+Milk,21009,2.49,"Abingdon, MD",Suburban,Food
+Milk,21704,2.49,"Frederick, MD",Urban,Food
+Milk,28704,2.49,"Arden, NC",Rural,Food
+Milk,28104,2.19,"Matthews, NC",Suburban,Food
+Milk,27609,2.49,"Raleigh, NC",Urban,Food
+Milk,29621,2.69,"Anderson, SC",Rural,Food
+Milk,29680,2.69,"Simpsonville, SC",Suburban,Food
+Milk,29607,2.69,"Greenville, SC",Urban,Food
+Milk,24487,3.89,"Williamsville, VA",Rural,Food
+Milk,24151,3.89,"Rocky Mount, VA",Suburban,Food
+Milk,22305,3.79,"Alexandria, VA",Urban,Food
+Milk,25526,3.99,"Hurricane, WV",Rural,Food
+Milk,26059,3.99,"Triladelphia, WV",Suburban,Food
+Milk,25309,3.99,"South Charleston, WV",Urban,Food
