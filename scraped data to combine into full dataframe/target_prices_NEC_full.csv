@@ -1,0 +1,162 @@
+Product,Zip Code,Price,Location,Classification
+Vegetable Oil,61401,$9.39 ,1071 W Carl Sandburg Dr,rural
+Vegetable Oil,60014,$9.39 ,"Galesburg, IL 61401-1343",suburban
+Vegetable Oil,60610,$9.39 ,"1200 N Larrabee St,, Chicago, Illinois 60610-1746",urban
+Vegetable Oil,47401,$9.39 ,"2966 E 3rd St,, Bloomington, Indiana 47401-5424",rural
+Vegetable Oil,46383,$9.39 ,"2420 Laporte Ave,, Valparaiso, Indiana 46383-6914",suburban
+Vegetable Oil,46237,$9.39 ,"4850 E Southport Rd,, Indianapolis, Indiana 46237-3321",urban
+Vegetable Oil,49855,$9.39 ,"3250 US Hwy 41 W,, Marquette, Michigan 49855-9483",rural
+Vegetable Oil,48374,$9.39 ,"27100 Wixom Rd,, Novi, Michigan 48374-1115",suburban
+Vegetable Oil,48507,$9.39 ,"3255 Owen Rd,, Fenton, Michigan 48430-1755",urban
+Vegetable Oil,44870,$9.39 ,"4020 Milan Rd,, Sandusky, Ohio 44870-5892",rural
+Vegetable Oil,45236,$9.39 ,"9099 Plainfield Rd,, Blue Ash, Ohio 45236-1245",suburban
+Vegetable Oil,45249,$9.39 ,"9841 Waterstone Blvd,, Cincinnati, Ohio 45249-8296",urban
+Vegetable Oil,54235,$9.39 ,"2050 Lime Kiln Rd,, Green Bay, Wisconsin 54311-6264",rural
+Vegetable Oil,53085,$9.39 ,"1250 N Port Washington Rd,, Grafton, Wisconsin 53024-9315",suburban
+Vegetable Oil,53207,$9.39 ,"2950 S Chase Ave,, Milwaukee, Wisconsin 53207-6407",urban
+Cotton Swabs,61401,$3.39 ,1071 W Carl Sandburg Dr,rural
+Cotton Swabs,60014,$3.39 ,"Galesburg, IL 61401-1343",suburban
+Cotton Swabs,60610,$3.39 ,"1200 N Larrabee St,, Chicago, Illinois 60610-1746",urban
+Cotton Swabs,47401,$3.39 ,"2966 E 3rd St,, Bloomington, Indiana 47401-5424",rural
+Cotton Swabs,46383,$3.39 ,"2420 Laporte Ave,, Valparaiso, Indiana 46383-6914",suburban
+Cotton Swabs,46237,$3.39 ,"4850 E Southport Rd,, Indianapolis, Indiana 46237-3321",urban
+Cotton Swabs,49855,$3.39 ,"3250 US Hwy 41 W,, Marquette, Michigan 49855-9483",rural
+Cotton Swabs,48374,$3.39 ,"27100 Wixom Rd,, Novi, Michigan 48374-1115",suburban
+Cotton Swabs,48507,$3.39 ,"G3515 Miller Rd,, Flint, Michigan 48507-1273",urban
+Cotton Swabs,44870,$3.39 ,"4020 Milan Rd,, Sandusky, Ohio 44870-5892",rural
+Cotton Swabs,45236,$3.39 ,"9099 Plainfield Rd,, Blue Ash, Ohio 45236-1245",suburban
+Cotton Swabs,45249,$3.39 ,"9841 Waterstone Blvd,, Cincinnati, Ohio 45249-8296",urban
+Cotton Swabs,54235,$3.39 ,"410 S Ashland Ave,, Sturgeon Bay, Wisconsin 54235-3805",rural
+Cotton Swabs,53085,$3.39 ,"4085 State Highway 28,, Sheboygan Falls, Wisconsin 53085-2848",suburban
+Cotton Swabs,53207,$3.39 ,"2950 S Chase Ave,, Milwaukee, Wisconsin 53207-6407",urban
+T-Shirt,61401,$9.60 ,1071 W Carl Sandburg Dr,rural
+T-Shirt,60014,$9.60 ,"Galesburg, IL 61401-1343",suburban
+T-Shirt,60610,$9.60 ,"1200 N Larrabee St,, Chicago, Illinois 60610-1746",urban
+T-Shirt,47401,$9.60 ,"2966 E 3rd St,, Bloomington, Indiana 47401-5424",rural
+T-Shirt,46383,$9.60 ,"4120 W 95th St,, Oak Lawn, Illinois 60453-2675",suburban
+T-Shirt,46237,$9.60 ,"6101 N Keystone Ave,, Indianapolis, Indiana 46220-2488",urban
+T-Shirt,48374,$9.60 ,"20100 Haggerty Rd,, Livonia, Michigan 48152-1087",suburban
+T-Shirt,48507,$9.60 ,"8043 Challis Rd,, Brighton, Michigan 48116-7446",urban
+T-Shirt,44870,$9.60 ,"35830 Detroit Rd,, Avon, Ohio 44011-1681",rural
+T-Shirt,45236,$9.60 ,"1100 Hansel Ave,, Florence, Kentucky 41042-4869",suburban
+T-Shirt,45249,$9.60 ,"1100 Hansel Ave,, Florence, Kentucky 41042-4869",urban
+T-Shirt,54235,$9.60 ,"2050 Lime Kiln Rd,, Green Bay, Wisconsin 54311-6264",rural
+T-Shirt,53085,$9.60 ,"N95 W 17707 Shady Ln,, Menomonee Falls, Wisconsin 53051-8012",suburban
+T-Shirt,53207,$9.60 ,"8989 S Howell Ave,, Oak Creek, Wisconsin 53154-3803",urban
+Shampoo,61401,$9.99 ,1071 W Carl Sandburg Dr,rural
+Shampoo,60014,$9.99 ,"Galesburg, IL 61401-1343",suburban
+Shampoo,60610,$9.99 ,"1200 N Larrabee St,, Chicago, Illinois 60610-1746",urban
+Shampoo,47401,$9.99 ,"2966 E 3rd St,, Bloomington, Indiana 47401-5424",rural
+Shampoo,46383,$9.99 ,"2420 Laporte Ave,, Valparaiso, Indiana 46383-6914",suburban
+Shampoo,46237,$9.99 ,"4850 E Southport Rd,, Indianapolis, Indiana 46237-3321",urban
+Shampoo,49855,$9.99 ,"3250 US Hwy 41 W,, Marquette, Michigan 49855-9483",rural
+Shampoo,48374,$9.99 ,"27100 Wixom Rd,, Novi, Michigan 48374-1115",suburban
+Shampoo,48507,$9.99 ,"G3515 Miller Rd,, Flint, Michigan 48507-1273",urban
+Shampoo,44870,$9.99 ,"4020 Milan Rd,, Sandusky, Ohio 44870-5892",rural
+Shampoo,45236,$9.99 ,"9099 Plainfield Rd,, Blue Ash, Ohio 45236-1245",suburban
+Shampoo,45249,$9.99 ,"9841 Waterstone Blvd,, Cincinnati, Ohio 45249-8296",urban
+Shampoo,54235,$9.99 ,"410 S Ashland Ave,, Sturgeon Bay, Wisconsin 54235-3805",rural
+Shampoo,53085,$9.99 ,"4085 State Highway 28,, Sheboygan Falls, Wisconsin 53085-2848",suburban
+Shampoo,53207,$9.99 ,"2950 S Chase Ave,, Milwaukee, Wisconsin 53207-6407",urban
+Milk,61401,$4.69 ,"1071 W Carl Sandburg Dr
+Galesburg, IL 61401-1343",rural
+Milk,60014,$2.59 ,"5580 Northwest Hwy,, Crystal Lake, Illinois 60014-8016",suburban
+Milk,60610,$2.79 ,"1200 N Larrabee St,, Chicago, Illinois 60610-1746",urban
+Milk,47401,$2.69 ,"2966 E 3rd St,, Bloomington, Indiana 47401-5424",rural
+Milk,46383,$2.99 ,"2420 Laporte Ave,, Valparaiso, Indiana 46383-6914",suburban
+Milk,46237,$2.59 ,"895 S State Rd 135,, Greenwood, Indiana 46143-9413",urban
+Milk,48374,$2.59 ,"27100 Wixom Rd,, Novi, Michigan 48374-1115",suburban
+Milk,48507,$2.69 ,"G3515 Miller Rd,, Flint, Michigan 48507-1273",urban
+Milk,44870,$2.79 ,"4020 Milan Rd,, Sandusky, Ohio 44870-5892",rural
+Milk,45236,$2.79 ,"9099 Plainfield Rd,, Blue Ash, Ohio 45236-1245",suburban
+Milk,45249,$2.69 ,"9841 Waterstone Blvd,, Cincinnati, Ohio 45249-8296",urban
+Milk,54235,$3.69 ,"410 S Ashland Ave,, Sturgeon Bay, Wisconsin 54235-3805",rural
+Milk,53085,$3.69 ,"4085 State Highway 28,, Sheboygan Falls, Wisconsin 53085-2848",suburban
+Milk,53207,$3.69 ,"2950 S Chase Ave,, Milwaukee, Wisconsin 53207-6407",urban
+Diapers,61401,$44.99 ,1071 W Carl Sandburg Dr,rural
+Diapers,60014,$44.99 ,"Galesburg, IL 61401-1343",suburban
+Diapers,60610,$44.99 ,"1200 N Larrabee St,, Chicago, Illinois 60610-1746",urban
+Diapers,47401,$44.99 ,"2966 E 3rd St,, Bloomington, Indiana 47401-5424",rural
+Diapers,46383,$44.99 ,"2420 Laporte Ave,, Valparaiso, Indiana 46383-6914",suburban
+Diapers,46237,$44.99 ,"4850 E Southport Rd,, Indianapolis, Indiana 46237-3321",urban
+Diapers,49855,$44.99 ,"3250 US Hwy 41 W,, Marquette, Michigan 49855-9483",rural
+Diapers,48374,$44.99 ,"27100 Wixom Rd,, Novi, Michigan 48374-1115",suburban
+Diapers,48507,$44.99 ,"G3515 Miller Rd,, Flint, Michigan 48507-1273",urban
+Diapers,44870,$44.99 ,"4020 Milan Rd,, Sandusky, Ohio 44870-5892",rural
+Diapers,45236,$44.99 ,"9099 Plainfield Rd,, Blue Ash, Ohio 45236-1245",suburban
+Diapers,45249,$44.99 ,"9841 Waterstone Blvd,, Cincinnati, Ohio 45249-8296",urban
+Diapers,54235,$44.99 ,"410 S Ashland Ave,, Sturgeon Bay, Wisconsin 54235-3805",rural
+Diapers,53085,$44.99 ,"4085 State Highway 28,, Sheboygan Falls, Wisconsin 53085-2848",suburban
+Diapers,53207,$44.99 ,"2950 S Chase Ave,, Milwaukee, Wisconsin 53207-6407",urban
+Eggs,61401,$4.99 ,"1071 W Carl Sandburg Dr
+Galesburg, IL 61401-1343",rural
+Eggs,60014,$4.99 ,"5580 Northwest Hwy,, Crystal Lake, Illinois 60014-8016",suburban
+Eggs,60610,$5.29 ,"1200 N Larrabee St,, Chicago, Illinois 60610-1746",urban
+Eggs,47401,$4.99 ,"2966 E 3rd St,, Bloomington, Indiana 47401-5424",rural
+Eggs,46383,$4.99 ,"2420 Laporte Ave,, Valparaiso, Indiana 46383-6914",suburban
+Eggs,46237,$4.99 ,"4850 E Southport Rd,, Indianapolis, Indiana 46237-3321",urban
+Eggs,44870,$4.99 ,"4020 Milan Rd,, Sandusky, Ohio 44870-5892",rural
+Eggs,45236,$4.99 ,"9099 Plainfield Rd,, Blue Ash, Ohio 45236-1245",suburban
+Eggs,45249,$4.99 ,"9841 Waterstone Blvd,, Cincinnati, Ohio 45249-8296",urban
+Eggs,54235,$4.99 ,"410 S Ashland Ave,, Sturgeon Bay, Wisconsin 54235-3805",rural
+Eggs,53085,$4.99 ,"4085 State Highway 28,, Sheboygan Falls, Wisconsin 53085-2848",suburban
+Eggs,53207,$4.99 ,"1501 Miller Park Way,, West Milwaukee, Wisconsin 53214-3654",urban
+Airpods,61401,$179.99 ,"1071 W Carl Sandburg Dr
+Galesburg, IL 61401-1343",rural
+Airpods,60014,$179.99 ,"5580 Northwest Hwy,, Crystal Lake, Illinois 60014-8016",suburban
+Airpods,60610,$179.99 ,"1200 N Larrabee St,, Chicago, Illinois 60610-1746",urban
+Airpods,47401,$179.99 ,"2966 E 3rd St,, Bloomington, Indiana 47401-5424",rural
+Airpods,46383,$179.99 ,"2420 Laporte Ave,, Valparaiso, Indiana 46383-6914",suburban
+Airpods,46237,$179.99 ,"4850 E Southport Rd,, Indianapolis, Indiana 46237-3321",urban
+Airpods,44870,$179.99 ,"4020 Milan Rd,, Sandusky, Ohio 44870-5892",rural
+Airpods,45236,$179.99 ,"9099 Plainfield Rd,, Blue Ash, Ohio 45236-1245",suburban
+Airpods,45249,$179.99 ,"9841 Waterstone Blvd,, Cincinnati, Ohio 45249-8296",urban
+Airpods,54235,$179.99 ,"410 S Ashland Ave,, Sturgeon Bay, Wisconsin 54235-3805",rural
+Airpods,53085,$179.99 ,"4085 State Highway 28,, Sheboygan Falls, Wisconsin 53085-2848",suburban
+Airpods,53207,$179.99 ,"1501 Miller Park Way,, West Milwaukee, Wisconsin 53214-3654",urban
+Bananas,61401,$1.99 ,"1071 W Carl Sandburg Dr
+Galesburg, IL 61401-1343",rural
+Bananas,60014,$1.99 ,"5580 Northwest Hwy,, Crystal Lake, Illinois 60014-8016",suburban
+Bananas,60610,$1.99 ,"1200 N Larrabee St,, Chicago, Illinois 60610-1746",urban
+Bananas,47401,$1.99 ,"2966 E 3rd St,, Bloomington, Indiana 47401-5424",rural
+Bananas,46383,$1.99 ,"2420 Laporte Ave,, Valparaiso, Indiana 46383-6914",suburban
+Bananas,46237,$1.99 ,"4850 E Southport Rd,, Indianapolis, Indiana 46237-3321",urban
+Bananas,49855,$1.99 ,"3250 US Hwy 41 W,, Marquette, Michigan 49855-9483",rural
+Bananas,48374,$1.99 ,"27100 Wixom Rd,, Novi, Michigan 48374-1115",suburban
+Bananas,48507,$1.99 ,"3255 Owen Rd,, Fenton, Michigan 48430-1755",urban
+Bananas,44870,$1.99 ,"4020 Milan Rd,, Sandusky, Ohio 44870-5892",rural
+Bananas,45236,$1.99 ,"9099 Plainfield Rd,, Blue Ash, Ohio 45236-1245",suburban
+Bananas,45249,$1.99 ,"9841 Waterstone Blvd,, Cincinnati, Ohio 45249-8296",urban
+Bananas,54235,$1.99 ,"2050 Lime Kiln Rd,, Green Bay, Wisconsin 54311-6264",rural
+Bananas,53085,$1.99 ,"1250 N Port Washington Rd,, Grafton, Wisconsin 53024-9315",suburban
+Bananas,53207,$1.99 ,"1501 Miller Park Way,, West Milwaukee, Wisconsin 53214-3654",urban
+Gum,61401,$1.69 ,1071 W Carl Sandburg Dr,rural
+Gum,60014,$1.69 ,"Galesburg, IL 61401-1343",suburban
+Gum,60610,$1.69 ,"1200 N Larrabee St,, Chicago, Illinois 60610-1746",urban
+Gum,47401,$1.69 ,"2966 E 3rd St,, Bloomington, Indiana 47401-5424",rural
+Gum,46383,$1.69 ,"2420 Laporte Ave,, Valparaiso, Indiana 46383-6914",suburban
+Gum,46237,$1.69 ,"4850 E Southport Rd,, Indianapolis, Indiana 46237-3321",urban
+Gum,49855,$1.69 ,"3250 US Hwy 41 W,, Marquette, Michigan 49855-9483",rural
+Gum,48374,$1.69 ,"27100 Wixom Rd,, Novi, Michigan 48374-1115",suburban
+Gum,48507,$1.69 ,"G3515 Miller Rd,, Flint, Michigan 48507-1273",urban
+Gum,44870,$1.69 ,"4020 Milan Rd,, Sandusky, Ohio 44870-5892",rural
+Gum,45236,$1.69 ,"9099 Plainfield Rd,, Blue Ash, Ohio 45236-1245",suburban
+Gum,45249,$1.69 ,"9841 Waterstone Blvd,, Cincinnati, Ohio 45249-8296",urban
+Gum,54235,$1.69 ,"410 S Ashland Ave,, Sturgeon Bay, Wisconsin 54235-3805",rural
+Gum,53085,$1.69 ,"4085 State Highway 28,, Sheboygan Falls, Wisconsin 53085-2848",suburban
+Gum,53207,$1.69 ,"2950 S Chase Ave,, Milwaukee, Wisconsin 53207-6407",urban
+Toilet Paper,61401,$12.99 ,1071 W Carl Sandburg Dr,rural
+Toilet Paper,60014,$12.99 ,"Galesburg, IL 61401-1343",suburban
+Toilet Paper,60610,$12.99 ,"1200 N Larrabee St,, Chicago, Illinois 60610-1746",urban
+Toilet Paper,47401,$12.99 ,"2966 E 3rd St,, Bloomington, Indiana 47401-5424",rural
+Toilet Paper,46383,$12.99 ,"2420 Laporte Ave,, Valparaiso, Indiana 46383-6914",suburban
+Toilet Paper,46237,$12.99 ,"4850 E Southport Rd,, Indianapolis, Indiana 46237-3321",urban
+Toilet Paper,49855,$12.99 ,"3250 US Hwy 41 W,, Marquette, Michigan 49855-9483",rural
+Toilet Paper,48374,$12.99 ,"27100 Wixom Rd,, Novi, Michigan 48374-1115",suburban
+Toilet Paper,48507,$12.99 ,"3255 Owen Rd,, Fenton, Michigan 48430-1755",urban
+Toilet Paper,44870,$12.99 ,"4020 Milan Rd,, Sandusky, Ohio 44870-5892",rural
+Toilet Paper,45236,$12.99 ,"9099 Plainfield Rd,, Blue Ash, Ohio 45236-1245",suburban
+Toilet Paper,45249,$12.99 ,"9841 Waterstone Blvd,, Cincinnati, Ohio 45249-8296",urban
+Toilet Paper,54235,$12.99 ,"2050 Lime Kiln Rd,, Green Bay, Wisconsin 54311-6264",rural
+Toilet Paper,53085,$12.99 ,"485 N Rolling Meadows Dr,, Fond du Lac, Wisconsin 54937-9784",suburban
+Toilet Paper,53207,$12.99 ,"2950 S Chase Ave,, Milwaukee, Wisconsin 53207-6407",urban
