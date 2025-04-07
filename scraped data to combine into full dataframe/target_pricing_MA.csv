@@ -1,0 +1,115 @@
+﻿Product,Zip Code,Price,Location,Classification
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Vegetable Oil,8865,$9.39 ,"1204 New Brunswick Ave,, Phillipsburg, New Jersey 08865-4124",rural
+Vegetable Oil,7047,$9.39 ,"7101 Tonnelle Ave,, North Bergen, New Jersey 07047-4507",suburban
+Vegetable Oil,7310,$9.39 ,"100 14th St,, Jersey City, New Jersey 07310-1202",urban
+Vegetable Oil,14020,$9.39 ,"3181 Chili Ave,, Rochester, New York 14624-5409",rural
+Vegetable Oil,14850,$9.39 ,"40 Catherwood Rd,, Ithaca, New York 14850-1056",suburban
+Vegetable Oil,11217,$9.39 ,"139 Flatbush Ave,, Brooklyn, New York 11217-1403",urban
+Vegetable Oil,16601,$9.39 ,"201 W Beaver Ave,, State College, Pennsylvania 16801-4819",rural
+Vegetable Oil,17013,$9.39 ,"246 Westminster Dr,, Carlisle, Pennsylvania 17013-3117",suburban
+Vegetable Oil,19103,$9.39 ,"1900 CHESTNUT ST,, Philadelphia, Pennsylvania 19103-4610",urban
+,,,,
+Gum,8865,$1.69 ,"1204 New Brunswick Ave,, Phillipsburg, New Jersey 08865-4124",rural
+Gum,7047,$1.69 ,"7101 Tonnelle Ave,, North Bergen, New Jersey 07047-4507",suburban
+Gum,7310,$1.69 ,"100 14th St,, Jersey City, New Jersey 07310-1202",urban
+Gum,14020,$1.69 ,"4300 Veterans Memorial Dr,, Batavia, New York 14020-1258",rural
+Gum,14850,$1.69 ,"40 Catherwood Rd,, Ithaca, New York 14850-1056",suburban
+Gum,11217,$1.69 ,"139 Flatbush Ave,, Brooklyn, New York 11217-1403",urban
+Gum,16601,$1.69 ,"153 Sierra Dr,, Altoona, Pennsylvania 16601-9341",rural
+Gum,17013,$1.69 ,"246 Westminster Dr,, Carlisle, Pennsylvania 17013-3117",suburban
+Gum,19103,$1.69 ,"1900 CHESTNUT ST,, Philadelphia, Pennsylvania 19103-4610",urban
+,,,,
+Toilet Paper,8865,$12.99 ,"3835 Dryland Way,, Easton, Pennsylvania 18045-8208",rural
+Toilet Paper,7047,$12.99 ,"7101 Tonnelle Ave,, North Bergen, New Jersey 07047-4507",suburban
+Toilet Paper,7310,$12.99 ,"100 14th St,, Jersey City, New Jersey 07310-1202",urban
+Toilet Paper,14020,$12.99 ,"4300 Veterans Memorial Dr,, Batavia, New York 14020-1258",rural
+Toilet Paper,14850,$12.99 ,"40 Catherwood Rd,, Ithaca, New York 14850-1056",suburban
+Toilet Paper,11217,$12.99 ,"139 Flatbush Ave,, Brooklyn, New York 11217-1403",urban
+Toilet Paper,16601,$12.99 ,"315 Colonnade Blvd,, State College, Pennsylvania 16803-2321",rural
+Toilet Paper,17013,$12.99 ,"246 Westminster Dr,, Carlisle, Pennsylvania 17013-3117",suburban
+Toilet Paper,19103,$12.99 ,"1 Mifflin St,, Philadelphia, Pennsylvania 19148-2017",urban
+AirPods,08865,$179.99 ,"1204 New Brunswick Ave,, Phillipsburg, New Jersey 08865-4124",rural
+AirPods,07047,$179.99 ,"7101 Tonnelle Ave,, North Bergen, New Jersey 07047-4507",suburban
+AirPods,07310,$179.99 ,"100 14th St,, Jersey City, New Jersey 07310-1202",urban
+AirPods,14020,$179.99 ,"3181 Chili Ave,, Rochester, New York 14624-5409",rural
+AirPods,14850,$179.99 ,"40 Catherwood Rd,, Ithaca, New York 14850-1056",suburban
+AirPods,11217,$179.99 ,"139 Flatbush Ave,, Brooklyn, New York 11217-1403",urban
+AirPods,16601,$179.99 ,"201 W Beaver Ave,, State College, Pennsylvania 16801-4819",rural
+AirPods,17013,$179.99 ,"246 Westminster Dr,, Carlisle, Pennsylvania 17013-3117",suburban
+AirPods,19103,$179.99 ,"1900 CHESTNUT ST,, Philadelphia, Pennsylvania 19103-4610",urban
+,,,,
+Cotton Swabs,8865,$3.39 ,"1204 New Brunswick Ave,, Phillipsburg, New Jersey 08865-4124",rural
+Cotton Swabs,7047,$3.39 ,"7101 Tonnelle Ave,, North Bergen, New Jersey 07047-4507",suburban
+Cotton Swabs,7310,$3.39 ,"100 14th St,, Jersey City, New Jersey 07310-1202",urban
+Cotton Swabs,14020,$3.39 ,"4300 Veterans Memorial Dr,, Batavia, New York 14020-1258",rural
+Cotton Swabs,14850,$3.39 ,"40 Catherwood Rd,, Ithaca, New York 14850-1056",suburban
+Cotton Swabs,11217,$3.39 ,"139 Flatbush Ave,, Brooklyn, New York 11217-1403",urban
+Cotton Swabs,16601,$3.39 ,"153 Sierra Dr,, Altoona, Pennsylvania 16601-9341",rural
+Cotton Swabs,17013,$3.39 ,"246 Westminster Dr,, Carlisle, Pennsylvania 17013-3117",suburban
+Cotton Swabs,19103,$3.39 ,"1900 CHESTNUT ST,, Philadelphia, Pennsylvania 19103-4610",urban
+Diapers,8865,$44.99 ,"912 Airport Center Dr,, Allentown, Pennsylvania 18109-9385",rural
+Diapers,7047,$44.99 ,"7101 Tonnelle Ave,, North Bergen, New Jersey 07047-4507",suburban
+Diapers,7310,$44.99 ,"512 2nd Ave,, New York, New York 10016-8604",urban
+Diapers,14020,$44.99 ,"4300 Veterans Memorial Dr,, Batavia, New York 14020-1258",rural
+Diapers,14850,$44.99 ,"40 Catherwood Rd,, Ithaca, New York 14850-1056",suburban
+Diapers,11217,$44.99 ,"139 Flatbush Ave,, Brooklyn, New York 11217-1403",urban
+Diapers,16601,$44.99 ,"153 Sierra Dr,, Altoona, Pennsylvania 16601-9341",rural
+Diapers,17013,$44.99 ,"4600 High Pointe Blvd,, Harrisburg, Pennsylvania 17111-2447",suburban
+Diapers,19103,$44.99 ,"1 Mifflin St,, Philadelphia, Pennsylvania 19148-2017",urban
+Eggs,8865,$4.99 ,"1204 New Brunswick Ave,, Phillipsburg, New Jersey 08865-4124",rural
+Eggs,7047,$4.99 ,"7101 Tonnelle Ave,, North Bergen, New Jersey 07047-4507",suburban
+Eggs,7310,$4.99 ,"100 14th St,, Jersey City, New Jersey 07310-1202",urban
+Eggs,14020,$4.99 ,"4300 Veterans Memorial Dr,, Batavia, New York 14020-1258",rural
+Eggs,14850,$4.99 ,"40 Catherwood Rd,, Ithaca, New York 14850-1056",suburban
+Eggs,11217,$5.39 ,"139 Flatbush Ave,, Brooklyn, New York 11217-1403",urban
+Eggs,16601,$4.99 ,"153 Sierra Dr,, Altoona, Pennsylvania 16601-9341",rural
+Eggs,17013,$4.99 ,"246 Westminster Dr,, Carlisle, Pennsylvania 17013-3117",suburban
+Eggs,19103,$5.39 ,"1900 CHESTNUT ST,, Philadelphia, Pennsylvania 19103-4610",urban
+Shampoo,8865,$9.99 ,"1204 New Brunswick Ave,, Phillipsburg, New Jersey 08865-4124",rural
+Shampoo,7047,$9.99 ,"7101 Tonnelle Ave,, North Bergen, New Jersey 07047-4507",suburban
+Shampoo,7310,$9.99 ,"100 14th St,, Jersey City, New Jersey 07310-1202",urban
+Shampoo,14020,$9.99 ,"4300 Veterans Memorial Dr,, Batavia, New York 14020-1258",rural
+Shampoo,14850,$9.99 ,"40 Catherwood Rd,, Ithaca, New York 14850-1056",suburban
+Shampoo,11217,$9.99 ,"139 Flatbush Ave,, Brooklyn, New York 11217-1403",urban
+Shampoo,16601,$9.99 ,"153 Sierra Dr,, Altoona, Pennsylvania 16601-9341",rural
+Shampoo,17013,$9.99 ,"246 Westminster Dr,, Carlisle, Pennsylvania 17013-3117",suburban
+Shampoo,19103,$9.99 ,"1900 CHESTNUT ST,, Philadelphia, Pennsylvania 19103-4610",urban
+,,,,
+Milk,8865,$3.99 ,"1204 New Brunswick Ave,, Phillipsburg, New Jersey 08865-4124",rural
+Milk,7047,$3.99 ,"7101 Tonnelle Ave,, North Bergen, New Jersey 07047-4507",suburban
+Milk,7310,$3.99 ,"100 14th St,, Jersey City, New Jersey 07310-1202",urban
+Milk,14020,$2.79 ,"4300 Veterans Memorial Dr,, Batavia, New York 14020-1258",rural
+Milk,14850,$2.89 ,"40 Catherwood Rd,, Ithaca, New York 14850-1056",suburban
+Milk,11217,$4.49 ,"139 Flatbush Ave,, Brooklyn, New York 11217-1403",urban
+Milk,16601,$5.19 ,"153 Sierra Dr,, Altoona, Pennsylvania 16601-9341",rural
+Milk,17013,$4.69 ,"246 Westminster Dr,, Carlisle, Pennsylvania 17013-3117",suburban
+Milk,19103,$5.29 ,"1900 CHESTNUT ST,, Philadelphia, Pennsylvania 19103-4610",urban
+,,,,
+Bananas,08865,$1.99 ,"1204 New Brunswick Ave,, Phillipsburg, New Jersey 08865-4124",rural
+Bananas,07047,$1.99 ,"7101 Tonnelle Ave,, North Bergen, New Jersey 07047-4507",suburban
+Bananas,07310,$1.99 ,"100 14th St,, Jersey City, New Jersey 07310-1202",urban
+Bananas,14020,$1.99 ,"3181 Chili Ave,, Rochester, New York 14624-5409",rural
+Bananas,14850,$1.99 ,"40 Catherwood Rd,, Ithaca, New York 14850-1056",suburban
+Bananas,11217,$1.99 ,"139 Flatbush Ave,, Brooklyn, New York 11217-1403",urban
+Bananas,16601,$1.99 ,"201 W Beaver Ave,, State College, Pennsylvania 16801-4819",rural
+Bananas,17013,$1.99 ,"246 Westminster Dr,, Carlisle, Pennsylvania 17013-3117",suburban
+Bananas,19103,$1.99 ,"1900 CHESTNUT ST,, Philadelphia, Pennsylvania 19103-4610",urban
+,,,,
+T-Shirt,08865,$9.60 ,"1515 US Highway 22,, Watchung, New Jersey 07069-6509",rural
+T-Shirt,07047,$9.60 ,"10 Union Square East,, New York, New York 10003-3314",suburban
+T-Shirt,07310,$9.60 ,"100 14th St,, Jersey City, New Jersey 07310-1202",urban
+T-Shirt,14020,$9.60 ,"2325 Marketplace Dr,, Rochester, New York 14623-6009",rural
+T-Shirt,14850,$9.60 ,"340 Towne Dr,, Fayetteville, New York 13066-1371",suburban
+T-Shirt,11217,$9.60 ,"445 Albee Square West,, BROOKLYN, New York 11201-3016",urban
+T-Shirt,16803,$9.60 ,"315 Colonnade Blvd,",rural
+T-Shirt,17013,$9.60 ,"State College, Pennsylvania 16803-2321",suburban
+T-Shirt,19148,$9.60 ,"1 Mifflin St,",urban
