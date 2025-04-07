@@ -1,0 +1,28 @@
+Product,Zip Code,Price,Location,Classification
+Diapers,61401,$44.99,,
+Diapers,60014,$44.99,"5580 Northwest Hwy,, Crystal Lake, Illinois 60014-8016",suburban
+Diapers,60610,$44.99,"1200 N Larrabee St,, Chicago, Illinois 60610-1746",urban
+Diapers,47401,$44.99,"2966 E 3rd St,, Bloomington, Indiana 47401-5424",rural
+Diapers,46383,$44.99,"2420 Laporte Ave,, Valparaiso, Indiana 46383-6914",suburban
+Diapers,46237,$44.99,"4850 E Southport Rd,, Indianapolis, Indiana 46237-3321",urban
+Diapers,49855,$44.99,"3250 US Hwy 41 W,, Marquette, Michigan 49855-9483",rural
+Diapers,48374,$44.99,"27100 Wixom Rd,, Novi, Michigan 48374-1115",suburban
+Diapers,48507,$44.99,"G3515 Miller Rd,, Flint, Michigan 48507-1273",urban
+Diapers,44870,$44.99,"4020 Milan Rd,, Sandusky, Ohio 44870-5892",rural
+Diapers,45236,$44.99,"9099 Plainfield Rd,, Blue Ash, Ohio 45236-1245",suburban
+Diapers,45249,$44.99,"9841 Waterstone Blvd,, Cincinnati, Ohio 45249-8296",urban
+Diapers,54235,$44.99,"410 S Ashland Ave,, Sturgeon Bay, Wisconsin 54235-3805",rural
+Diapers,53085,$44.99,"4085 State Highway 28,, Sheboygan Falls, Wisconsin 53085-2848",suburban
+Diapers,53207,$44.99,"2950 S Chase Ave,, Milwaukee, Wisconsin 53207-6407",urban
+Eggs,61401,$4.99,,
+Eggs,60014,$4.99,"5580 Northwest Hwy,, Crystal Lake, Illinois 60014-8016",suburban
+Eggs,60610,$5.29,"1200 N Larrabee St,, Chicago, Illinois 60610-1746",urban
+Eggs,47401,$4.99,"2966 E 3rd St,, Bloomington, Indiana 47401-5424",rural
+Eggs,46383,$4.99,"2420 Laporte Ave,, Valparaiso, Indiana 46383-6914",suburban
+Eggs,46237,$4.99,"4850 E Southport Rd,, Indianapolis, Indiana 46237-3321",urban
+Eggs,44870,$4.99,"4020 Milan Rd,, Sandusky, Ohio 44870-5892",rural
+Eggs,45236,$4.99,"9099 Plainfield Rd,, Blue Ash, Ohio 45236-1245",suburban
+Eggs,45249,$4.99,"9841 Waterstone Blvd,, Cincinnati, Ohio 45249-8296",urban
+Eggs,54235,$4.99,"410 S Ashland Ave,, Sturgeon Bay, Wisconsin 54235-3805",rural
+Eggs,53085,$4.99,"4085 State Highway 28,, Sheboygan Falls, Wisconsin 53085-2848",suburban
+Eggs,53207,$4.99,"1501 Miller Park Way,, West Milwaukee, Wisconsin 53214-3654",urban
