@@ -4,7 +4,7 @@ Divisions: rural, suburban, urban
         ME: 04952, 04086, 04401 #Belmont is 40 miles away from Augusta
         MA: 01040, 02122, 02114 # 01075, south hadley 5.2 mi away
         NH: 03840, 03110, 03063
-        RI: 02917, 20886, 02865 # 12.6 mi, glocester, 10 mi to Providence
+        RI: 02917, 02886, 02865 # 12.6 mi, glocester, 10 mi to Providence
         VT: one store, 05403
         
     Mid-Atlantic:
