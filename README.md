@@ -6,6 +6,11 @@ variables
 Model
 Results/imps
 
+## Introduction
+
+With grocery prices seeming to be a challenge for quite a while now, we wanted to explore grocery pricing regionally and divisonally through the lens of rural, suburban, and urban separations. 
+
+## Data Sources and Retrieval
 Data Sources: Data was collected from target.com, rentdata.org, census.gov, https://warehouse.ninja/target-distribution-center-locations/,
 and the github file located here: https://gist.github.com/pramodpendyala/e5688b6a63d2983eac804bbaa1fd7cc0. 
 
@@ -17,7 +22,6 @@ In this project we will be utilizing data from the Bureau of Labor, Target groce
 
 
 Here are the packages that we used to complete this project. 
-* npm
   ```sh
   from selenium import webdriver
   from selenium.webdriver.firefox.options import Options
@@ -40,3 +44,5 @@ Here are the packages that we used to complete this project.
   from sklearn.metrics import mean_squared_error
   from sklearn.preprocessing import StandardScaler
   ```
+
+
