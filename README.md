@@ -78,8 +78,18 @@ Figure 5:
 ![poster pics eda png-5](https://github.com/user-attachments/assets/4c3a116a-0eee-4eb7-a2a1-3e8b4a8c887e)
 
 ## Model
+Multiple linear regression was chosen to find the relationship between one Target product and the rest of the variables. 
+
+
+
 
 ## Results
+
+Perishable goods like milk and eggs show significant regional price variation: Influenced by transportation costs, supply chain logistics, and local retail infrastructure.
+Non-perishable and manufacturer-controlled items maintain stable pricing, such as AirPods and bananas, across regions, likely due to standardized national pricing.
+Geographic area type influences pricing: Urban areas benefit from lower prices due to proximity to distribution hubs and retail competition, while rural areas experience higher prices due to longer supply chains and fewer retailers. Suburban regions show mixed pricing patterns based on local conditions.
+Distance from distribution centers: Longer distances drive up costs, especially for perishables.
+
 
 ## Implications
 
