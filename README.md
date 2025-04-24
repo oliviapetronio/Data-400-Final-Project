@@ -5,6 +5,9 @@
 
 With grocery prices seeming to continue rising and variations of economic pressures, people are finding challenges living. We wanted to explore grocery pricing regionally and divisonally through the lens of rural, suburban, and urban separations. 
 
+**Research Question** : How do factors like location (regionally, division, state, urban, suburban, or rural), rent prices, unemployment, distance to distribution centers, median income, and population impact Target's pricing strategies? 
+
+
 ## Data Sources and Retrieval
 Data was collected from [Target](https://target.com), [Rent](https://rentdata.org), [Census](https://census.gov), [Warehouse Data](https://warehouse.ninja/target-distribution-center-locations/),
 and the github file located here: [Zip Code Latitudes and Longitudes](https://gist.github.com/pramodpendyala/e5688b6a63d2983eac804bbaa1fd7cc0).
