@@ -65,7 +65,7 @@ Various variables are from the Target data (y) compared to other target data and
    Figure 1: 
  ![poster pics eda png-1](https://github.com/user-attachments/assets/7013ccc2-28a3-4721-9716-8bd5ac588986)
 
-AirPods and diapers were removed from this chart due to consistent pricing for each area and distortion of pricing ($179.99 and $44.99 respectively). And also skewed data since everything else is ranged $1-14. Please contact if full chart is desired. Since there are lines on all of the milk and eggs, these are high price variance items. While other things like toilet paper, gum, vegetable oil, shampoo, t-shirts, cotton swabs have less confidence intervals. Even though they are present. Since Alaska does not have a distribution center and Hawaii, it needs to be shipped by plane or sailed. Another thing to note is the consistency between urban, suburban, and rural.
+AirPods and diapers were removed from this chart due to consistent pricing for each area and distortion of pricing ($179.99 and $44.99 respectively) which skewed data since everything else ranged from $1-14. Since there are confidence intervals on all of the milk and eggs, these are high price variance items within the divisions. While other things like toilet paper, gum, vegetable oil, shampoo, t-shirts, cotton swabs have either less or no confidence intervals for some divisions. Since Alaska does not have a distribution center and Hawaii, it needs to be shipped by plane or sailed. Another thing to note is the consistency between urban, suburban, and rural.  
 
  
 The rest of our analysis can be found under the [Final Poster](https://github.com/oliviapetronio/Data-400-Final-Project/blob/main/Final%20Poster.pdf) section on the github and the [analysis section]()
@@ -77,10 +77,12 @@ Inference multiple linear regression was chosen to find the relationship between
 
 ## Results
 
-Perishable goods like milk and eggs show significant regional price variation: Influenced by transportation costs, supply chain logistics, and local retail infrastructure.
-Non-perishable and manufacturer-controlled items maintain stable pricing, such as AirPods and bananas, across regions, likely due to standardized national pricing.
-Geographic area type influences pricing: Urban areas benefit from lower prices due to proximity to distribution hubs and retail competition, while rural areas experience higher prices due to longer supply chains and fewer retailers. Suburban regions show mixed pricing patterns based on local conditions.
-Distance from distribution centers: Longer distances drive up costs, especially for perishables.
+Perishable goods like milk and eggs show significant regional price variation probably influenced by transportation costs, supply chain logistics, and local retail infrastructure.
+Non-perishable and manufacturer-controlled items maintain stable pricing, such as AirPods and bananas, across regions, likely due to standardized national pricing.  
+Geographic area type influences pricing:  
+Urban areas benefit from lower prices due to proximity to distribution hubs and retail competition, while rural areas experience higher prices due to longer supply chains and fewer retailers. Suburban regions show mixed pricing patterns based on local conditions.
+Distance from distribution centers:    
+Longer distances drive up costs, especially for perishables.
 
 
 ## Implications
