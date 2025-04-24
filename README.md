@@ -9,8 +9,7 @@ With grocery prices seeming to continue rising and variations of economic pressu
 
 
 ## Data Sources and Retrieval
-Data was collected from [Target](https://target.com), [Rent](https://rentdata.org), [Census](https://census.gov), [Warehouse Data](https://warehouse.ninja/target-distribution-center-locations/),
-and the github file located here: [Zip Code Latitudes and Longitudes](https://gist.github.com/pramodpendyala/e5688b6a63d2983eac804bbaa1fd7cc0).
+Data was collected from [Target](https://target.com), [Rent](https://rentdata.org), [Census](https://census.gov), [Warehouse Data](https://warehouse.ninja/target-distribution-center-locations/), and the github file located here: [Zip Code Latitudes and Longitudes](https://gist.github.com/pramodpendyala/e5688b6a63d2983eac804bbaa1fd7cc0).
 
 
 These websites were scraped. See Data Scraping section for more information. 
@@ -42,8 +41,8 @@ Here are all the packages that we used to complete this project.
 
 
 Variables:
-For our variables:
--Unemployment rate
+For our variables:  
+-Unemployment rate  
 -Target data (bananas, diapers, t-shirts, AirPods, vegetable oil, gum, toilet paper, cotton swabs, eggs, shampoo, and milk)
 -Target warehouse distance in relation to Target locations 
 -Median income
