@@ -62,7 +62,8 @@ Various y variables are from the Target data compared to other target data and r
 
   
 # Exploratory Data Analysis 
-  ![User Features](http://imgur.com/a/ip5I6Oo.png)
+ ![poster pics eda png-1](https://github.com/user-attachments/assets/7013ccc2-28a3-4721-9716-8bd5ac588986)
+
 
 
 
