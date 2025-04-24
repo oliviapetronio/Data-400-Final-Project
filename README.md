@@ -74,6 +74,7 @@ The rest of our analysis can be found under the [Final Poster](https://github.co
 Inference multiple linear regression was chosen to find the relationship between one Target product and the rest of the variables. 
 
 
+![mu2](https://github.com/user-attachments/assets/95172ab4-c539-4d92-a118-8ce0a562e001)
 
 ## Results
 
