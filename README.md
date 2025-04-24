@@ -1,10 +1,6 @@
 # Data-400-Final-Project
 
 
-
-Model
-Results/imps
-
 ## Introduction
 
 With grocery prices seeming to be a challenge for quite a while now, we wanted to explore grocery pricing regionally and divisonally through the lens of rural, suburban, and urban separations. 
@@ -80,6 +76,23 @@ Figure 5:
 
 
 ![poster pics eda png-5](https://github.com/user-attachments/assets/4c3a116a-0eee-4eb7-a2a1-3e8b4a8c887e)
+
+## Model
+
+## Results
+
+## Implications
+
+Social: 
+Individual: knowledge and awareness. Lots of people feel financial pressure paying for their necessities.
+Community: knowledge and advocation.
+Law: gives policymakers insight to pricing differences between regions and area types.
+Ethical: 
+Although there are supply chain issues to getting to rural areas, rural customers have lower median incomes but are paying more for necessities. Therefore, placing the burden on the consumers  and creating financial stress.
+Legal:
+Concerns of scraping legally for data privacy and in regulation with Target's policies. 
+
+
 
 
 
