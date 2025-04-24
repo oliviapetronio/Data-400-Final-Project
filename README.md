@@ -40,14 +40,14 @@ Here are all the packages that we used to complete this project.
   ```
 
 
-Variables:
+## Variables: 
 For our variables:  
 -Unemployment rate  
--Target data (bananas, diapers, t-shirts, AirPods, vegetable oil, gum, toilet paper, cotton swabs, eggs, shampoo, and milk)
--Target warehouse distance in relation to Target locations 
--Median income
--Population
--Rent pricing
+-Target data (bananas, diapers, t-shirts, AirPods, vegetable oil, gum, toilet paper, cotton swabs, eggs, shampoo, and milk)  
+-Target warehouse distance in relation to Target locations   
+-Median income  
+-Population  
+-Rent pricing  
 
 Various variables are from the Target data (y) compared to other target data and rest of variables (x). 
 
@@ -60,10 +60,9 @@ Various variables are from the Target data (y) compared to other target data and
 
   
 # Exploratory Data Analysis 
-  
+   Here is the first plot and analysis we did:
 
-Figure 1: 
-  Here is the first plot and analysis we did:
+   Figure 1: 
  ![poster pics eda png-1](https://github.com/user-attachments/assets/7013ccc2-28a3-4721-9716-8bd5ac588986)
 
 AirPods and diapers were removed from this chart due to consistent pricing for each area and distortion of pricing ($179.99 and $44.99 respectively). And also skewed data since everything else is ranged $1-14. Please contact if full chart is desired. Since there are lines on all of the milk and eggs, these are high price variance items. While other things like toilet paper, gum, vegetable oil, shampoo, t-shirts, cotton swabs have less confidence intervals. Even though they are present. Since Alaska does not have a distribution center and Hawaii, it needs to be shipped by plane or sailed. Another thing to note is the consistency between urban, suburban, and rural.
@@ -86,14 +85,14 @@ Distance from distribution centers: Longer distances drive up costs, especially 
 
 ## Implications
 
-Social: 
-Individual: knowledge and awareness. Lots of people feel financial pressure paying for their necessities.
-Community: knowledge and advocation.
-Law: gives policymakers insight to pricing differences between regions and area types.
-Ethical: 
+Social:   
+Individual: knowledge and awareness. Lots of people feel financial pressure paying for their necessities.  
+Community: knowledge and advocation.  
+Law: gives policymakers insight to pricing differences between regions and area types.  
+Ethical:   
 Although there are supply chain issues to getting to rural areas, rural customers have lower median incomes but are paying more for necessities. Therefore, placing the burden on the consumers  and creating financial stress.
-Legal:
-Concerns of scraping legally for data privacy and in regulation with Target's policies. 
+Legal:  
+Concerns of scraping legally for data privacy and in regulation with Target's policies.   
 
 
 
