@@ -40,12 +40,12 @@ Here are all the packages that we used to complete this project.
 
 Variables:
 For our variables:
-     -Unemployment rate
-     -Target data (bananas, diapers, t-shirts, AirPods, vegetable oil, gum, toilet paper, cotton swabs, eggs, shampoo, and milk)
-     -Target warehouse distance in relation to Target locations 
-     -Median income
-     -Population
-     -Rent pricing
+-Unemployment rate
+-Target data (bananas, diapers, t-shirts, AirPods, vegetable oil, gum, toilet paper, cotton swabs, eggs, shampoo, and milk)
+-Target warehouse distance in relation to Target locations 
+-Median income
+-Population
+-Rent pricing
 
 Various variables are from the Target data (y) compared to other target data and rest of variables (x). 
 
