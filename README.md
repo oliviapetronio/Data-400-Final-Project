@@ -3,15 +3,14 @@
 
 ## Introduction
 
-With grocery prices seeming to be a challenge for quite a while now, we wanted to explore grocery pricing regionally and divisonally through the lens of rural, suburban, and urban separations. 
+With grocery prices seeming to continue rising and variations of economic pressures, people are finding challenges living. We wanted to explore grocery pricing regionally and divisonally through the lens of rural, suburban, and urban separations. 
 
 ## Data Sources and Retrieval
 Data was collected from [Target](https://target.com), [Rent](https://rentdata.org), [Census](https://census.gov), [Warehouse Data](https://warehouse.ninja/target-distribution-center-locations/),
 and the github file located here: [Zip Code Latitudes and Longitudes](https://gist.github.com/pramodpendyala/e5688b6a63d2983eac804bbaa1fd7cc0).
 
 
-These websites were scraped. See below for sample code. 
-
+These websites were scraped. See Data Scraping section for more information. 
 
 
 Here are all the packages that we used to complete this project. 
@@ -48,14 +47,14 @@ For our variables:
      -Population
      -Rent pricing
 
-Various y variables are from the Target data compared to other target data and rest of variables (x). 
+Various variables are from the Target data (y) compared to other target data and rest of variables (x). 
 
 
 # Data Scraping
-  Please see the code in the file [Target Data! updated 4-6-25.ipynb for the full code](https://github.com/oliviapetronio/Data-400-Final-Project/blob/main/Target%20Data!%20updated%204-6-25.ipynb).
+  Please see the code in the file [Target Data! updated 4-6-25.ipynb](https://github.com/oliviapetronio/Data-400-Final-Project/blob/main/Target%20Data!%20updated%204-6-25.ipynb) for the full code.
 
 # Data Cleaning 
-  Certain zip codes were changed to strings as some selected zip codes had a 0 in front 
+  Certain zip codes were changed to strings as some selected zip codes had a 0 in front and were not registering as integers. The rent and price were changed to floats removing the $. Also some AirPods rows had name variations and therefore had to be unified. Since all of the data was in a separate file from web scraping, data was appended and then pivoted (columns turn into rows and rows into columns) so data is tidy with zip code as id. Then the distribution center distance was added.
 
   
 # Exploratory Data Analysis 
@@ -65,14 +64,13 @@ Figure 1:
   Here is the first plot and analysis we did:
  ![poster pics eda png-1](https://github.com/user-attachments/assets/7013ccc2-28a3-4721-9716-8bd5ac588986)
 
- AirPods and diapers were removed from this chart due to consistent pricing for each area and distortion of pricing ($179.99 and $44.99 respectively). And also skewed data since everything else is ranged $1-14. Please contact if full chart is desired. Since there are lines on all of the milk and eggs, these are high price variance items. While other things like toilet paper, gum, vegetable oil, shampoo, t-shirts, cotton swabs have less confidence intervals. Even though they are present. Since Alaska does not have a distribution center and Hawaii, it needs to be shipped by plane or sailed. Another thing to note is the consistency between urban, suburban, and rural.
+AirPods and diapers were removed from this chart due to consistent pricing for each area and distortion of pricing ($179.99 and $44.99 respectively). And also skewed data since everything else is ranged $1-14. Please contact if full chart is desired. Since there are lines on all of the milk and eggs, these are high price variance items. While other things like toilet paper, gum, vegetable oil, shampoo, t-shirts, cotton swabs have less confidence intervals. Even though they are present. Since Alaska does not have a distribution center and Hawaii, it needs to be shipped by plane or sailed. Another thing to note is the consistency between urban, suburban, and rural.
 
  
-The rest of our analysis can be found under the [Final Poster](https://github.com/oliviapetronio/Data-400-Final-Project/blob/main/Final%20Poster.pdf) section on the github and analysis section. 
+The rest of our analysis can be found under the [Final Poster](https://github.com/oliviapetronio/Data-400-Final-Project/blob/main/Final%20Poster.pdf) section on the github and the [analysis section]()
 
 ## Model
-Multiple linear regression was chosen to find the relationship between one Target product and the rest of the variables. 
-
+Inference multiple linear regression was chosen to find the relationship between one Target product and the rest of the variables. 
 
 
 
