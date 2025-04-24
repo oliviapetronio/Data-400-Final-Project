@@ -62,9 +62,24 @@ Various y variables are from the Target data compared to other target data and r
 
   
 # Exploratory Data Analysis 
+
+Figure 1: 
  ![poster pics eda png-1](https://github.com/user-attachments/assets/7013ccc2-28a3-4721-9716-8bd5ac588986)
+ 
+Figure 2:
+![poster pics eda png-2](https://github.com/user-attachments/assets/e04faa13-944d-4a55-9eff-766a86842e20)
+
+Figure 3:
+![poster pics eda png-3](https://github.com/user-attachments/assets/69f4a397-2b88-48c6-a7ad-1c056924bfac)
+
+Figure 4:
+![poster pics eda png-4](https://github.com/user-attachments/assets/88840098-e0d2-4cb0-949a-ee55127233a9)
 
 
+Figure 5:
+
+
+![poster pics eda png-5](https://github.com/user-attachments/assets/4c3a116a-0eee-4eb7-a2a1-3e8b4a8c887e)
 
 
 
