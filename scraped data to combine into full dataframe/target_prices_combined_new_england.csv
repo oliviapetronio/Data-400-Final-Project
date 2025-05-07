@@ -1,0 +1,177 @@
+Product,Zip Code,Price,Location,Area Type,Category
+Bananas,06241,1.99,"Dayville, CT",Rural,Food
+Bananas,06042,1.99,"Manchester, CT",Suburban,Food
+Bananas,06901,2.19,"Stamford, CT",Urban,Food
+Bananas,04952,1.99,"Morrill, ME",Rural,Food
+Bananas,04086,1.99,"Topsham, ME",Suburban,Food
+Bananas,04401,1.99,"Bangor, ME",Urban,Food
+Bananas,01040,1.99,"Holyoke, MA",Rural,Food
+Bananas,02122,1.99,"Dorchester, MA",Suburban,Food
+Bananas,02114,1.99,"Boston, MA",Urban,Food
+Bananas,03840,1.99,"Greenland, NH",Rural,Food
+Bananas,03110,1.99,"Bedford, NH",Suburban,Food
+Bananas,03063,1.99,"Nashua, NH",Urban,Food
+Bananas,02917,1.99,"Smithfield, RI",Rural,Food
+Bananas,02886,1.99,"Warwick, RI",Suburban,Food
+Bananas,02865,1.99,"Lincoln, RI",Urban,Food
+Bananas,05403,1.99,"South Burlington, VT",Suburban,Food
+Vegetable Oil,06241,9.39,"Dayville, CT",Rural,Food
+Vegetable Oil,06042,9.39,"Manchester, CT",Suburban,Food
+Vegetable Oil,06901,10.39,"Stamford, CT",Urban,Food
+Vegetable Oil,04952,9.39,"Morrill, ME",Rural,Food
+Vegetable Oil,04086,9.39,"Topsham, ME",Suburban,Food
+Vegetable Oil,04401,9.39,"Bangor, ME",Urban,Food
+Vegetable Oil,01040,9.39,"Holyoke, MA",Rural,Food
+Vegetable Oil,02122,9.99,"Dorchester, MA",Suburban,Food
+Vegetable Oil,02114,9.99,"Boston, MA",Urban,Food
+Vegetable Oil,03840,9.39,"Greenland, NH",Rural,Food
+Vegetable Oil,03110,9.39,"Bedford, NH",Suburban,Food
+Vegetable Oil,03063,9.39,"Nashua, NH",Urban,Food
+Vegetable Oil,02917,9.39,"Smithfield, RI",Rural,Food
+Vegetable Oil,02886,9.39,"Warwick, RI",Suburban,Food
+Vegetable Oil,02865,9.39,"Lincoln, RI",Urban,Food
+Vegetable Oil,05403,9.39,"South Burlington, VT",Suburban,Food
+Gum,06241,1.79,"Dayville, CT",Rural,Snack
+Gum,06042,1.79,"Manchester, CT",Suburban,Snack
+Gum,06901,1.69,"Stamford, CT",Urban,Snack
+Gum,04952,1.79,"Morrill, ME",Rural,Snack
+Gum,04086,1.79,"Topsham, ME",Suburban,Snack
+Gum,04401,1.79,"Bangor, ME",Urban,Snack
+Gum,01040,1.79,"Holyoke, MA",Rural,Snack
+Gum,02122,1.79,"Dorchester, MA",Suburban,Snack
+Gum,02114,1.79,"Boston, MA",Urban,Snack
+Gum,03840,1.79,"Greenland, NH",Rural,Snack
+Gum,03110,1.79,"Bedford, NH",Suburban,Snack
+Gum,03063,1.79,"Nashua, NH",Urban,Snack
+Gum,02917,1.79,"Smithfield, RI",Rural,Snack
+Gum,02886,1.79,"Warwick, RI",Suburban,Snack
+Gum,02865,1.79,"Lincoln, RI",Urban,Snack
+Gum,05403,1.79,"South Burlington, VT",Suburban,Snack
+Toilet Paper,06241,12.99,"Dayville, CT",Rural,Toiletries
+Toilet Paper,06042,12.99,"Manchester, CT",Suburban,Toiletries
+Toilet Paper,06901,14.29,"Stamford, CT",Urban,Toiletries
+Toilet Paper,04952,12.99,"Morrill, ME",Rural,Toiletries
+Toilet Paper,04086,12.99,"Topsham, ME",Suburban,Toiletries
+Toilet Paper,04401,12.99,"Bangor, ME",Urban,Toiletries
+Toilet Paper,01040,12.99,"Holyoke, MA",Rural,Toiletries
+Toilet Paper,02122,13.59,"Dorchester, MA",Suburban,Toiletries
+Toilet Paper,02114,13.59,"Boston, MA",Urban,Toiletries
+Toilet Paper,03840,12.99,"Greenland, NH",Rural,Toiletries
+Toilet Paper,03110,12.99,"Bedford, NH",Suburban,Toiletries
+Toilet Paper,03063,12.99,"Nashua, NH",Urban,Toiletries
+Toilet Paper,02917,12.99,"Smithfield, RI",Rural,Toiletries
+Toilet Paper,02886,12.99,"Warwick, RI",Suburban,Toiletries
+Toilet Paper,02865,12.99,"Lincoln, RI",Urban,Toiletries
+Toilet Paper,05403,12.99,"South Burlington, VT",Suburban,Toiletries
+AirPods,06241,149.99,"Dayville, CT",Rural,Electronics
+AirPods,06042,149.99,"Manchester, CT",Suburban,Electronics
+AirPods,06901,149.99,"Stamford, CT",Urban,Electronics
+AirPods,04952,149.99,"Morrill, ME",Rural,Electronics
+AirPods,04086,149.99,"Topsham, ME",Suburban,Electronics
+AirPods,04401,149.99,"Bangor, ME",Urban,Electronics
+AirPods,01040,149.99,"Holyoke, MA",Rural,Electronics
+AirPods,02122,149.99,"Dorchester, MA",Suburban,Electronics
+AirPods,02114,149.99,"Boston, MA",Urban,Electronics
+AirPods,03840,149.99,"Greenland, NH",Rural,Electronics
+AirPods,03110,149.99,"Bedford, NH",Suburban,Electronics
+AirPods,03063,149.99,"Nashua, NH",Urban,Electronics
+AirPods,02917,149.99,"Smithfield, RI",Rural,Electronics
+AirPods,02886,149.99,"Warwick, RI",Suburban,Electronics
+AirPods,02865,149.99,"Lincoln, RI",Urban,Electronics
+AirPods,05403,149.99,"South Burlington, VT",Suburban,Electronics
+Cotton Swabs,06241,3.39,"Dayville, CT",Rural,Toiletries
+Cotton Swabs,06042,3.39,"Manchester, CT",Suburban,Toiletries
+Cotton Swabs,06901,3.69,"Stamford, CT",Urban,Toiletries
+Cotton Swabs,04952,3.39,"Morrill, ME",Rural,Toiletries
+Cotton Swabs,04086,3.39,"Topsham, ME",Suburban,Toiletries
+Cotton Swabs,04401,3.39,"Bangor, ME",Urban,Toiletries
+Cotton Swabs,01040,3.39,"Holyoke, MA",Rural,Toiletries
+Cotton Swabs,02122,3.29,"Dorchester, MA",Suburban,Toiletries
+Cotton Swabs,02114,3.29,"Boston, MA",Urban,Toiletries
+Cotton Swabs,03840,3.39,"Greenland, NH",Rural,Toiletries
+Cotton Swabs,03110,3.39,"Bedford, NH",Suburban,Toiletries
+Cotton Swabs,03063,3.39,"Nashua, NH",Urban,Toiletries
+Cotton Swabs,02917,3.39,"Smithfield, RI",Rural,Toiletries
+Cotton Swabs,02886,3.39,"Warwick, RI",Suburban,Toiletries
+Cotton Swabs,02865,3.39,"Lincoln, RI",Urban,Toiletries
+Cotton Swabs,05403,3.39,"South Burlington, VT",Suburban,Toiletries
+Diapers,06241,44.99,"Dayville, CT",Rural,Baby Care
+Diapers,06042,44.99,"Manchester, CT",Suburban,Baby Care
+Diapers,06901,44.99,"Stamford, CT",Urban,Baby Care
+Diapers,04952,44.99,"Morrill, ME",Rural,Baby Care
+Diapers,04086,44.99,"Topsham, ME",Suburban,Baby Care
+Diapers,04401,44.99,"Bangor, ME",Urban,Baby Care
+Diapers,01040,44.99,"Holyoke, MA",Rural,Baby Care
+Diapers,02122,44.99,"Dorchester, MA",Suburban,Baby Care
+Diapers,02114,44.99,"Boston, MA",Urban,Baby Care
+Diapers,03840,44.99,"Greenland, NH",Rural,Baby Care
+Diapers,03110,44.99,"Bedford, NH",Suburban,Baby Care
+Diapers,03063,44.99,"Nashua, NH",Urban,Baby Care
+Diapers,02917,44.99,"Smithfield, RI",Rural,Baby Care
+Diapers,02886,44.99,"Warwick, RI",Suburban,Baby Care
+Diapers,02865,44.99,"Lincoln, RI",Urban,Baby Care
+Diapers,05403,44.99,"South Burlington, VT",Suburban,Baby Care
+T-Shirt,06241,12.0,"Dayville, CT",Rural,Clothing
+T-Shirt,06042,12.0,"Manchester, CT",Suburban,Clothing
+T-Shirt,06901,12.0,"Stamford, CT",Urban,Clothing
+T-Shirt,04952,12.0,"Morrill, ME",Rural,Clothing
+T-Shirt,04086,12.0,"Topsham, ME",Suburban,Clothing
+T-Shirt,04401,12.0,"Bangor, ME",Urban,Clothing
+T-Shirt,01040,12.0,"Holyoke, MA",Rural,Clothing
+T-Shirt,02122,12.0,"Dorchester, MA",Suburban,Clothing
+T-Shirt,02114,12.0,"Boston, MA",Urban,Clothing
+T-Shirt,03840,12.0,"Greenland, NH",Rural,Clothing
+T-Shirt,03110,12.0,"Bedford, NH",Suburban,Clothing
+T-Shirt,03063,12.0,"Nashua, NH",Urban,Clothing
+T-Shirt,02917,12.0,"Smithfield, RI",Rural,Clothing
+T-Shirt,02886,12.0,"Warwick, RI",Suburban,Clothing
+T-Shirt,02865,12.0,"Lincoln, RI",Urban,Clothing
+T-Shirt,05403,12.0,"South Burlington, VT",Suburban,Clothing
+Eggs,06241,3.99,"Dayville, CT",Rural,Food
+Eggs,06042,3.99,"Manchester, CT",Suburban,Food
+Eggs,06901,4.49,"Stamford, CT",Urban,Food
+Eggs,04952,4.49,"Morrill, ME",Rural,Food
+Eggs,04086,4.49,"Topsham, ME",Suburban,Food
+Eggs,04401,4.49,"Bangor, ME",Urban,Food
+Eggs,01040,3.99,"Holyoke, MA",Rural,Food
+Eggs,02122,5.19,"Dorchester, MA",Suburban,Food
+Eggs,02114,5.19,"Boston, MA",Urban,Food
+Eggs,03840,4.49,"Greenland, NH",Rural,Food
+Eggs,03110,4.49,"Bedford, NH",Suburban,Food
+Eggs,03063,3.99,"Nashua, NH",Urban,Food
+Eggs,02917,4.49,"Smithfield, RI",Rural,Food
+Eggs,02886,4.49,"Warwick, RI",Suburban,Food
+Eggs,02865,4.49,"Lincoln, RI",Urban,Food
+Eggs,05403,3.99,"South Burlington, VT",Suburban,Food
+Shampoo,06241,9.99,"Dayville, CT",Rural,Toiletries
+Shampoo,06042,9.99,"Manchester, CT",Suburban,Toiletries
+Shampoo,06901,9.99,"Stamford, CT",Urban,Toiletries
+Shampoo,04952,9.99,"Morrill, ME",Rural,Toiletries
+Shampoo,04086,9.99,"Topsham, ME",Suburban,Toiletries
+Shampoo,04401,9.99,"Bangor, ME",Urban,Toiletries
+Shampoo,01040,9.99,"Holyoke, MA",Rural,Toiletries
+Shampoo,02122,9.99,"Dorchester, MA",Suburban,Toiletries
+Shampoo,02114,9.99,"Boston, MA",Urban,Toiletries
+Shampoo,03840,9.99,"Greenland, NH",Rural,Toiletries
+Shampoo,03110,9.99,"Bedford, NH",Suburban,Toiletries
+Shampoo,03063,9.99,"Nashua, NH",Urban,Toiletries
+Shampoo,02917,9.99,"Smithfield, RI",Rural,Toiletries
+Shampoo,02886,9.99,"Warwick, RI",Suburban,Toiletries
+Shampoo,02865,9.99,"Lincoln, RI",Urban,Toiletries
+Shampoo,05403,9.99,"South Burlington, VT",Suburban,Toiletries
+Milk,06241,3.49,"Dayville, CT",Rural,Food
+Milk,06042,3.49,"Manchester, CT",Suburban,Food
+Milk,06901,3.79,"Stamford, CT",Urban,Food
+Milk,04952,4.69,"Morrill, ME",Rural,Food
+Milk,04086,4.69,"Topsham, ME",Suburban,Food
+Milk,04401,4.69,"Bangor, ME",Urban,Food
+Milk,01040,4.19,"Holyoke, MA",Rural,Food
+Milk,02122,4.19,"Dorchester, MA",Suburban,Food
+Milk,02114,4.19,"Boston, MA",Urban,Food
+Milk,03840,3.49,"Greenland, NH",Rural,Food
+Milk,03110,3.49,"Bedford, NH",Suburban,Food
+Milk,03063,3.49,"Nashua, NH",Urban,Food
+Milk,02917,3.59,"Smithfield, RI",Rural,Food
+Milk,02886,3.59,"Warwick, RI",Suburban,Food
+Milk,02865,3.59,"Lincoln, RI",Urban,Food
+Milk,05403,3.49,"South Burlington, VT",Suburban,Food

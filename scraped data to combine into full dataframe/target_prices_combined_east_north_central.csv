@@ -1,0 +1,166 @@
+Product,Zip Code,Price,Location,Area Type,Category
+Bananas,61401,1.99,"Galesburg, IL",Rural,Food
+Bananas,60014,1.99,"Crystal Lake, IL",Suburban,Food
+Bananas,60610,2.19,"Chicago, IL",Urban,Food
+Bananas,47401,1.99,"Bloomington, IN",Rural,Food
+Bananas,46383,1.99,"Valparasio, IN",Suburban,Food
+Bananas,46237,1.99,"Indianapolis, IN",Urban,Food
+Bananas,49855,1.99,"Marquette, MI",Rural,Food
+Bananas,48374,1.99,"Novi, MI",Suburban,Food
+Bananas,48507,1.99,"Flint, MI",Urban,Food
+Bananas,44870,1.99,"Sandusky, OH",Rural,Food
+Bananas,45236,1.99,"Deer Park, OH",Suburban,Food
+Bananas,45249,1.99,"Cincinnatti, OH",Urban,Food
+Bananas,54235,1.99,"Sturgeon Bay, WI",Rural,Food
+Bananas,53085,1.99,"Sheboygan Falls, WI",Suburban,Food
+Bananas,53207,1.99,"Miluakee, WI",Urban,Food
+Vegetable Oil,61401,9.39,"Galesburg, IL",Rural,Food
+Vegetable Oil,60014,9.39,"Crystal Lake, IL",Suburban,Food
+Vegetable Oil,60610,10.39,"Chicago, IL",Urban,Food
+Vegetable Oil,47401,9.39,"Bloomington, IN",Rural,Food
+Vegetable Oil,46383,9.39,"Valparasio, IN",Suburban,Food
+Vegetable Oil,46237,9.39,"Indianapolis, IN",Urban,Food
+Vegetable Oil,49855,9.39,"Marquette, MI",Rural,Food
+Vegetable Oil,48374,9.39,"Novi, MI",Suburban,Food
+Vegetable Oil,48507,9.39,"Flint, MI",Urban,Food
+Vegetable Oil,44870,9.39,"Sandusky, OH",Rural,Food
+Vegetable Oil,45236,10.29,"Deer Park, OH",Suburban,Food
+Vegetable Oil,45249,10.29,"Cincinnatti, OH",Urban,Food
+Vegetable Oil,54235,9.39,"Sturgeon Bay, WI",Rural,Food
+Vegetable Oil,53085,9.39,"Sheboygan Falls, WI",Suburban,Food
+Vegetable Oil,53207,9.39,"Miluakee, WI",Urban,Food
+Gum,61401,1.69,"Galesburg, IL",Rural,Snack
+Gum,60014,1.69,"Crystal Lake, IL",Suburban,Snack
+Gum,60610,1.69,"Chicago, IL",Urban,Snack
+Gum,47401,1.79,"Bloomington, IN",Rural,Snack
+Gum,46383,1.69,"Valparasio, IN",Suburban,Snack
+Gum,46237,1.79,"Indianapolis, IN",Urban,Snack
+Gum,49855,1.79,"Marquette, MI",Rural,Snack
+Gum,48374,1.79,"Novi, MI",Suburban,Snack
+Gum,48507,1.79,"Flint, MI",Urban,Snack
+Gum,44870,1.79,"Sandusky, OH",Rural,Snack
+Gum,45236,1.79,"Deer Park, OH",Suburban,Snack
+Gum,45249,1.79,"Cincinnatti, OH",Urban,Snack
+Gum,54235,1.79,"Sturgeon Bay, WI",Rural,Snack
+Gum,53085,1.79,"Sheboygan Falls, WI",Suburban,Snack
+Gum,53207,1.79,"Miluakee, WI",Urban,Snack
+Toilet Paper,61401,12.99,"Galesburg, IL",Rural,Toiletries
+Toilet Paper,60014,12.99,"Crystal Lake, IL",Suburban,Toiletries
+Toilet Paper,60610,13.79,"Chicago, IL",Urban,Toiletries
+Toilet Paper,47401,12.99,"Bloomington, IN",Rural,Toiletries
+Toilet Paper,46383,12.99,"Valparasio, IN",Suburban,Toiletries
+Toilet Paper,46237,12.99,"Indianapolis, IN",Urban,Toiletries
+Toilet Paper,49855,12.99,"Marquette, MI",Rural,Toiletries
+Toilet Paper,48374,12.99,"Novi, MI",Suburban,Toiletries
+Toilet Paper,48507,12.99,"Flint, MI",Urban,Toiletries
+Toilet Paper,44870,12.99,"Sandusky, OH",Rural,Toiletries
+Toilet Paper,45236,12.99,"Deer Park, OH",Suburban,Toiletries
+Toilet Paper,45249,12.99,"Cincinnatti, OH",Urban,Toiletries
+Toilet Paper,54235,12.99,"Sturgeon Bay, WI",Rural,Toiletries
+Toilet Paper,53085,12.99,"Sheboygan Falls, WI",Suburban,Toiletries
+Toilet Paper,53207,12.99,"Miluakee, WI",Urban,Toiletries
+AirPods,61401,149.99,"Galesburg, IL",Rural,Electronics
+AirPods,60014,149.99,"Crystal Lake, IL",Suburban,Electronics
+AirPods,60610,149.99,"Chicago, IL",Urban,Electronics
+AirPods,47401,149.99,"Bloomington, IN",Rural,Electronics
+AirPods,46383,149.99,"Valparasio, IN",Suburban,Electronics
+AirPods,46237,149.99,"Indianapolis, IN",Urban,Electronics
+AirPods,49855,149.99,"Marquette, MI",Rural,Electronics
+AirPods,48374,149.99,"Novi, MI",Suburban,Electronics
+AirPods,48507,149.99,"Flint, MI",Urban,Electronics
+AirPods,44870,149.99,"Sandusky, OH",Rural,Electronics
+AirPods,45236,149.99,"Deer Park, OH",Suburban,Electronics
+AirPods,45249,149.99,"Cincinnatti, OH",Urban,Electronics
+AirPods,54235,149.99,"Sturgeon Bay, WI",Rural,Electronics
+AirPods,53085,149.99,"Sheboygan Falls, WI",Suburban,Electronics
+AirPods,53207,149.99,"Miluakee, WI",Urban,Electronics
+Cotton Swabs,61401,3.39,"Galesburg, IL",Rural,Toiletries
+Cotton Swabs,60014,3.39,"Crystal Lake, IL",Suburban,Toiletries
+Cotton Swabs,60610,3.39,"Chicago, IL",Urban,Toiletries
+Cotton Swabs,47401,3.39,"Bloomington, IN",Rural,Toiletries
+Cotton Swabs,46383,3.39,"Valparasio, IN",Suburban,Toiletries
+Cotton Swabs,46237,3.39,"Indianapolis, IN",Urban,Toiletries
+Cotton Swabs,49855,3.39,"Marquette, MI",Rural,Toiletries
+Cotton Swabs,48374,3.39,"Novi, MI",Suburban,Toiletries
+Cotton Swabs,48507,3.39,"Flint, MI",Urban,Toiletries
+Cotton Swabs,44870,3.39,"Sandusky, OH",Rural,Toiletries
+Cotton Swabs,45236,3.39,"Deer Park, OH",Suburban,Toiletries
+Cotton Swabs,45249,3.39,"Cincinnatti, OH",Urban,Toiletries
+Cotton Swabs,54235,3.39,"Sturgeon Bay, WI",Rural,Toiletries
+Cotton Swabs,53085,3.39,"Sheboygan Falls, WI",Suburban,Toiletries
+Cotton Swabs,53207,3.39,"Miluakee, WI",Urban,Toiletries
+Diapers,61401,44.99,"Galesburg, IL",Rural,Baby Care
+Diapers,60014,44.99,"Crystal Lake, IL",Suburban,Baby Care
+Diapers,60610,44.99,"Chicago, IL",Urban,Baby Care
+Diapers,47401,44.99,"Bloomington, IN",Rural,Baby Care
+Diapers,46383,44.99,"Valparasio, IN",Suburban,Baby Care
+Diapers,46237,44.99,"Indianapolis, IN",Urban,Baby Care
+Diapers,49855,44.99,"Marquette, MI",Rural,Baby Care
+Diapers,48374,44.99,"Novi, MI",Suburban,Baby Care
+Diapers,48507,44.99,"Flint, MI",Urban,Baby Care
+Diapers,44870,44.99,"Sandusky, OH",Rural,Baby Care
+Diapers,45236,44.99,"Deer Park, OH",Suburban,Baby Care
+Diapers,45249,44.99,"Cincinnatti, OH",Urban,Baby Care
+Diapers,54235,44.99,"Sturgeon Bay, WI",Rural,Baby Care
+Diapers,53085,44.99,"Sheboygan Falls, WI",Suburban,Baby Care
+Diapers,53207,44.99,"Miluakee, WI",Urban,Baby Care
+T-Shirt,61401,12.0,"Galesburg, IL",Rural,Clothing
+T-Shirt,60014,12.0,"Crystal Lake, IL",Suburban,Clothing
+T-Shirt,60610,12.0,"Chicago, IL",Urban,Clothing
+T-Shirt,47401,12.0,"Bloomington, IN",Rural,Clothing
+T-Shirt,46383,12.0,"Valparasio, IN",Suburban,Clothing
+T-Shirt,46237,12.0,"Indianapolis, IN",Urban,Clothing
+T-Shirt,49855,12.0,"Marquette, MI",Rural,Clothing
+T-Shirt,48374,12.0,"Novi, MI",Suburban,Clothing
+T-Shirt,48507,12.0,"Flint, MI",Urban,Clothing
+T-Shirt,44870,12.0,"Sandusky, OH",Rural,Clothing
+T-Shirt,45236,12.0,"Deer Park, OH",Suburban,Clothing
+T-Shirt,45249,12.0,"Cincinnatti, OH",Urban,Clothing
+T-Shirt,54235,12.0,"Sturgeon Bay, WI",Rural,Clothing
+T-Shirt,53085,12.0,"Sheboygan Falls, WI",Suburban,Clothing
+T-Shirt,53207,12.0,"Miluakee, WI",Urban,Clothing
+Eggs,61401,3.99,"Galesburg, IL",Rural,Food
+Eggs,60014,4.49,"Crystal Lake, IL",Suburban,Food
+Eggs,60610,3.99,"Chicago, IL",Urban,Food
+Eggs,47401,4.49,"Bloomington, IN",Rural,Food
+Eggs,46383,4.49,"Valparasio, IN",Suburban,Food
+Eggs,46237,3.99,"Indianapolis, IN",Urban,Food
+Eggs,49855,3.99,"Marquette, MI",Rural,Food
+Eggs,48374,3.99,"Novi, MI",Suburban,Food
+Eggs,48507,3.99,"Flint, MI",Urban,Food
+Eggs,44870,4.49,"Sandusky, OH",Rural,Food
+Eggs,45236,4.49,"Deer Park, OH",Suburban,Food
+Eggs,45249,4.49,"Cincinnatti, OH",Urban,Food
+Eggs,54235,3.99,"Sturgeon Bay, WI",Rural,Food
+Eggs,53085,3.99,"Sheboygan Falls, WI",Suburban,Food
+Eggs,53207,4.49,"Miluakee, WI",Urban,Food
+Shampoo,61401,9.99,"Galesburg, IL",Rural,Toiletries
+Shampoo,60014,9.99,"Crystal Lake, IL",Suburban,Toiletries
+Shampoo,60610,9.99,"Chicago, IL",Urban,Toiletries
+Shampoo,47401,9.99,"Bloomington, IN",Rural,Toiletries
+Shampoo,46383,9.99,"Valparasio, IN",Suburban,Toiletries
+Shampoo,46237,9.99,"Indianapolis, IN",Urban,Toiletries
+Shampoo,49855,9.99,"Marquette, MI",Rural,Toiletries
+Shampoo,48374,9.99,"Novi, MI",Suburban,Toiletries
+Shampoo,48507,9.99,"Flint, MI",Urban,Toiletries
+Shampoo,44870,9.99,"Sandusky, OH",Rural,Toiletries
+Shampoo,45236,9.99,"Deer Park, OH",Suburban,Toiletries
+Shampoo,45249,9.99,"Cincinnatti, OH",Urban,Toiletries
+Shampoo,54235,9.99,"Sturgeon Bay, WI",Rural,Toiletries
+Shampoo,53085,9.99,"Sheboygan Falls, WI",Suburban,Toiletries
+Shampoo,53207,9.99,"Miluakee, WI",Urban,Toiletries
+Milk,61401,2.89,"Galesburg, IL",Rural,Food
+Milk,60014,2.79,"Crystal Lake, IL",Suburban,Food
+Milk,60610,2.89,"Chicago, IL",Urban,Food
+Milk,47401,2.79,"Bloomington, IN",Rural,Food
+Milk,46383,2.59,"Valparasio, IN",Suburban,Food
+Milk,46237,2.69,"Indianapolis, IN",Urban,Food
+Milk,49855,3.79,"Marquette, MI",Rural,Food
+Milk,48374,2.69,"Novi, MI",Suburban,Food
+Milk,48507,2.69,"Flint, MI",Urban,Food
+Milk,44870,2.89,"Sandusky, OH",Rural,Food
+Milk,45236,2.69,"Deer Park, OH",Suburban,Food
+Milk,45249,2.69,"Cincinnatti, OH",Urban,Food
+Milk,54235,3.49,"Sturgeon Bay, WI",Rural,Food
+Milk,53085,3.49,"Sheboygan Falls, WI",Suburban,Food
+Milk,53207,3.49,"Miluakee, WI",Urban,Food

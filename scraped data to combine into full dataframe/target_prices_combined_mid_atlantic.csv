@@ -1,0 +1,100 @@
+Product,Zip Code,Price,Location,Area Type,Category
+Bananas,8865,1.99,"Phillipsburg, NJ",Rural,Food
+Bananas,7047,1.99,"North Bergen, NJ",Suburban,Food
+Bananas,7310,1.99,"Jersey City, NJ",Urban,Food
+Bananas,14020,1.99,"Batavia, NY",Rural,Food
+Bananas,14850,1.99,"Ithaca, NY",Suburban,Food
+Bananas,11217,2.19,"Brooklyn, NY",Urban,Food
+Bananas,16601,1.99,"Altoona, PA",Rural,Food
+Bananas,17013,1.99,"Carlisle, PA",Suburban,Food
+Bananas,19103,2.19,"Philadelphia, PA",Urban,Food
+Vegetable Oil,8865,9.39,"Phillipsburg, NJ",Rural,Food
+Vegetable Oil,7047,9.39,"North Bergen, NJ",Suburban,Food
+Vegetable Oil,7310,9.39,"Jersey City, NJ",Urban,Food
+Vegetable Oil,14020,9.39,"Batavia, NY",Rural,Food
+Vegetable Oil,14850,9.39,"Ithaca, NY",Suburban,Food
+Vegetable Oil,11217,10.39,"Brooklyn, NY",Urban,Food
+Vegetable Oil,16601,9.39,"Altoona, PA",Rural,Food
+Vegetable Oil,17013,9.39,"Carlisle, PA",Suburban,Food
+Vegetable Oil,19103,10.39,"Philadelphia, PA",Urban,Food
+Gum,8865,1.69,"Phillipsburg, NJ",Rural,Snack
+Gum,7047,1.69,"North Bergen, NJ",Suburban,Snack
+Gum,7310,1.69,"Jersey City, NJ",Urban,Snack
+Gum,14020,1.79,"Batavia, NY",Rural,Snack
+Gum,14850,1.79,"Ithaca, NY",Suburban,Snack
+Gum,11217,1.69,"Brooklyn, NY",Urban,Snack
+Gum,16601,1.69,"Altoona, PA",Rural,Snack
+Gum,17013,1.69,"Carlisle, PA",Suburban,Snack
+Gum,19103,1.79,"Philadelphia, PA",Urban,Snack
+Toilet Paper,8865,12.99,"Phillipsburg, NJ",Rural,Toiletries
+Toilet Paper,7047,12.99,"North Bergen, NJ",Suburban,Toiletries
+Toilet Paper,7310,12.99,"Jersey City, NJ",Urban,Toiletries
+Toilet Paper,14020,12.99,"Batavia, NY",Rural,Toiletries
+Toilet Paper,14850,12.99,"Ithaca, NY",Suburban,Toiletries
+Toilet Paper,11217,14.29,"Brooklyn, NY",Urban,Toiletries
+Toilet Paper,16601,12.99,"Altoona, PA",Rural,Toiletries
+Toilet Paper,17013,12.99,"Carlisle, PA",Suburban,Toiletries
+Toilet Paper,19103,14.29,"Philadelphia, PA",Urban,Toiletries
+AirPods,8865,149.99,"Phillipsburg, NJ",Rural,Electronics
+AirPods,7047,149.99,"North Bergen, NJ",Suburban,Electronics
+AirPods,7310,149.99,"Jersey City, NJ",Urban,Electronics
+AirPods,14020,149.99,"Batavia, NY",Rural,Electronics
+AirPods,14850,149.99,"Ithaca, NY",Suburban,Electronics
+AirPods,11217,149.99,"Brooklyn, NY",Urban,Electronics
+AirPods,16601,149.99,"Altoona, PA",Rural,Electronics
+AirPods,17013,149.99,"Carlisle, PA",Suburban,Electronics
+AirPods,19103,149.99,"Philadelphia, PA",Urban,Electronics
+Cotton Swabs,8865,3.39,"Phillipsburg, NJ",Rural,Toiletries
+Cotton Swabs,7047,3.39,"North Bergen, NJ",Suburban,Toiletries
+Cotton Swabs,7310,3.39,"Jersey City, NJ",Urban,Toiletries
+Cotton Swabs,14020,3.39,"Batavia, NY",Rural,Toiletries
+Cotton Swabs,14850,3.39,"Ithaca, NY",Suburban,Toiletries
+Cotton Swabs,11217,3.69,"Brooklyn, NY",Urban,Toiletries
+Cotton Swabs,16601,3.39,"Altoona, PA",Rural,Toiletries
+Cotton Swabs,17013,3.39,"Carlisle, PA",Suburban,Toiletries
+Cotton Swabs,19103,3.69,"Philadelphia, PA",Urban,Toiletries
+Diapers,8865,44.99,"Phillipsburg, NJ",Rural,Baby Care
+Diapers,7047,44.99,"North Bergen, NJ",Suburban,Baby Care
+Diapers,7310,44.99,"Jersey City, NJ",Urban,Baby Care
+Diapers,14020,44.99,"Batavia, NY",Rural,Baby Care
+Diapers,14850,44.99,"Ithaca, NY",Suburban,Baby Care
+Diapers,11217,44.99,"Brooklyn, NY",Urban,Baby Care
+Diapers,16601,44.99,"Altoona, PA",Rural,Baby Care
+Diapers,17013,44.99,"Carlisle, PA",Suburban,Baby Care
+Diapers,19103,44.99,"Philadelphia, PA",Urban,Baby Care
+T-Shirt,8865,12.0,"Phillipsburg, NJ",Rural,Clothing
+T-Shirt,7047,12.0,"North Bergen, NJ",Suburban,Clothing
+T-Shirt,7310,12.0,"Jersey City, NJ",Urban,Clothing
+T-Shirt,14020,12.0,"Batavia, NY",Rural,Clothing
+T-Shirt,14850,12.0,"Ithaca, NY",Suburban,Clothing
+T-Shirt,11217,12.0,"Brooklyn, NY",Urban,Clothing
+Eggs,8865,4.49,"Phillipsburg, NJ",Rural,Food
+Eggs,7047,3.99,"North Bergen, NJ",Suburban,Food
+Eggs,7310,3.99,"Jersey City, NJ",Urban,Food
+Eggs,14020,3.99,"Batavia, NY",Rural,Food
+Eggs,14850,3.99,"Ithaca, NY",Suburban,Food
+Eggs,11217,3.99,"Brooklyn, NY",Urban,Food
+Eggs,16601,3.99,"Altoona, PA",Rural,Food
+Eggs,17013,3.99,"Carlisle, PA",Suburban,Food
+Eggs,19103,3.99,"Philadelphia, PA",Urban,Food
+Shampoo,8865,9.99,"Phillipsburg, NJ",Rural,Toiletries
+Shampoo,7047,9.99,"North Bergen, NJ",Suburban,Toiletries
+Shampoo,7310,9.99,"Jersey City, NJ",Urban,Toiletries
+Shampoo,14020,9.99,"Batavia, NY",Rural,Toiletries
+Shampoo,14850,9.99,"Ithaca, NY",Suburban,Toiletries
+Shampoo,11217,9.99,"Brooklyn, NY",Urban,Toiletries
+Shampoo,16601,9.99,"Altoona, PA",Rural,Toiletries
+Shampoo,17013,9.99,"Carlisle, PA",Suburban,Toiletries
+Shampoo,19103,10.79,"Philadelphia, PA",Urban,Toiletries
+Milk,8865,3.99,"Phillipsburg, NJ",Rural,Food
+Milk,7047,3.99,"North Bergen, NJ",Suburban,Food
+Milk,7310,3.99,"Jersey City, NJ",Urban,Food
+Milk,14020,2.89,"Batavia, NY",Rural,Food
+Milk,14850,2.89,"Ithaca, NY",Suburban,Food
+Milk,11217,4.29,"Brooklyn, NY",Urban,Food
+Milk,16601,4.99,"Altoona, PA",Rural,Food
+Milk,17013,4.59,"Carlisle, PA",Suburban,Food
+Milk,19103,5.29,"Philadelphia, PA",Urban,Food
+T-Shirt,16601,12.0,"Altoona, PA",Rural,Clothing
+T-Shirt,17013,12.0,"Carlisle, PA",Suburban,Clothing
+T-Shirt,19103,12.0,"Philadelphia, PA",Urban,Clothing
